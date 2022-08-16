@@ -1,40 +1,42 @@
 
 
-# Real_Estate!
+# Project Title
 
 ![r-architecture-ujGLsMmXoBg-unsplash - Copy - Copy](https://user-images.githubusercontent.com/102890151/184289324-70cc4694-fb49-44e5-acf5-2fd669545f6f.jpg)
 
-## Project Overview
+### Project Overview
 
-### Reason why we selected this project
+#### Why we selected this project
 
-### Source of data
+#### Source of data
 
-### Questions we hope to answer with Data
+* Data was from <a href="https://www.zillow.com/research/data/" >Zillow's Research Data</a> Data was sourced from category, 'List and Sale Prices' 
 
 
-## Resources
+#### Questions we hope to answer with data
 
-## Communication Resources
 
-* Team all-included in Group Chat on Slack.
-* Team Created an Assignment Tracker using Monday.com
-* <a href="https://finalproject7.monday.com/boards/3094167465" >Project Tracker</a>
-* Meeting Times Established Nightly 7pm During week.
+### Resources
 
-## Project Description
+### Communication Resources
 
-## Data Analysis
+* Group chat on Slack.
+* Project tracking using Monday.com <a href="https://finalproject7.monday.com/boards/3094167465" >Monday.com Project Tracker</a>
+* Project status meetings nightly at 7pm during week.
 
-## Database
+### Project Description
 
-## Machine Learning
+### Data Analysis
 
-## Defining Model
+### Database
 
-## Analysis
+### Machine Learning
 
-## Future Perspective
+### Defining Model
+
+### Analysis
+
+### Future Perspective
 
 
 
