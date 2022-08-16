@@ -10,7 +10,7 @@
 
 #### Source of data
 
-* Data was from <a href="https://www.zillow.com/research/data/" >Zillow's Research Data</a> Data was sourced from category, 'List and Sale Prices' 
+* Data was from <a href="https://www.zillow.com/research/data/" >Zillow's Research Data.</a> Data was sourced from category, 'List and Sale Prices' 
 
 
 #### Questions we hope to answer with data
@@ -21,7 +21,7 @@
 ### Communication Resources
 
 * Group chat on Slack.
-* Project tracking using Monday.com <a href="https://finalproject7.monday.com/boards/3094167465" >Monday.com Project Tracker</a>
+* Project tracking using <a href="https://finalproject7.monday.com/boards/3094167465" >Monday.com's Project Tracker</a>
 * Project status meetings nightly at 7pm during week.
 
 ### Project Description
