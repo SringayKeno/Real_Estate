@@ -17,16 +17,21 @@
 
 
 ### Resources
-<<<<<<< HEAD
-=======
-Technologies used:
 
-Jupyter Notebook 
+#### Data Source:
 
-PostgreSQL (Data Cleaning)
+#### Software: Jupyter Notebook, Tableau(Visualization)
 
-Tableau(Visualization)
->>>>>>> e267d49e650e1be9be7067ced9970532073bca86
+#### Languages:
+
+#### Libraries:
+
+#### Machine Learning Models:
+
+#### Database: PostgreSQL (Data Cleaning)
+
+
+
 
 ### Communication Resources
 
@@ -49,8 +54,5 @@ Tableau(Visualization)
 ### Future Perspective
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> e267d49e650e1be9be7067ced9970532073bca86
 
