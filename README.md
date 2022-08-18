@@ -29,7 +29,8 @@
 ### Data Analysis
 
 ### Database
-
+*sample ERD file will go here
+*information about my sql tables will go here
 ### Machine Learning
 
 ### Defining Model
