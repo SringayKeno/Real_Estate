@@ -17,6 +17,16 @@
 
 
 ### Resources
+<<<<<<< HEAD
+=======
+Technologies used:
+
+Jupyter Notebook 
+
+PostgreSQL (Data Cleaning)
+
+Tableau(Visualization)
+>>>>>>> e267d49e650e1be9be7067ced9970532073bca86
 
 ### Communication Resources
 
@@ -39,5 +49,8 @@
 ### Future Perspective
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> e267d49e650e1be9be7067ced9970532073bca86
 
