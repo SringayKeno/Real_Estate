@@ -10,8 +10,7 @@
 
 #### Source of data
 
-
-
+Data sourced from<a href="https://www.zillow.com/research/data/" >Zillow's research data</a>
 
 #### Questions we hope to answer with data
 
