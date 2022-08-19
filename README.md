@@ -15,7 +15,12 @@
 
 ### Resources
 
-#### Data Source: Sourced from <a href="https://www.zillow.com/research/data/" >Zillow's research data</a>
+#### * Data Source: Sourced from <a href="https://www.zillow.com/research/data/" >Zillow's research data</a>
+#### * Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack
+#### * Languages: Python 3.7
+#### * Libraries: Pandas
+#### * Machine Learning Models:
+#### * Database: MySQL
 
 ### Communication Resources
 
