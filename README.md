@@ -16,6 +16,9 @@
 ### Resources
 
 #### * Data Source: Sourced from <a href="https://www.zillow.com/research/data/" >Zillow's research data</a>
+##### * Additional Census Data
+       <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
+     
 #### * Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack
 #### * Languages: Python 3.7
 #### * Libraries: Pandas
@@ -33,7 +36,8 @@
 ### Data Analysis
 
 ### Database
-*sample ERD file will go here
+*![image](https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png)
+
 *information about my sql tables will go here
 ### Machine Learning
 
