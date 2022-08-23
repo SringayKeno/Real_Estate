@@ -19,7 +19,7 @@
 #### * Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack
 #### * Languages: Python 3.7
 #### * Libraries: Pandas
-#### * Machine Learning Models:
+#### * Machine Learning Models: Random Forest Regressor
 #### * Database: MySQL
 
 ### Communication Resources
