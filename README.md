@@ -16,8 +16,7 @@
 ### Resources
 
 #### * Data Source: Sourced from <a href="https://www.zillow.com/research/data/" >Zillow's research data</a>
-##### * Additional Census Data
-       <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
+#### * Additional Census Data<a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
      
 #### * Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack
 #### * Languages: Python 3.7
