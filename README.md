@@ -22,7 +22,8 @@
      
 * ####  Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack
 * ####  Languages: Python 3.7
-* ####  Libraries: Pandas
+* ####  Libraries:  MongoClient, pandas pymongo, numpy, RandomForestRegressor, rfpimp, sklearn.model, statistics
+
 * ####  Machine Learning Model: Random Forest Regressor
 * ####  Database: MySQL Workbench 8.0
 
