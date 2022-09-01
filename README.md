@@ -23,8 +23,8 @@
 * ####  Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack
 * ####  Languages: Python 3.7
 * ####  Libraries: Pandas
-* ####  Machine Learning Models: Random Forest Regressor
-* ####  Database: MySQL
+* ####  Machine Learning Model: Random Forest Regressor
+* ####  Database: MySQL Workbench 8.0
 
 ## Communication Resources
 
