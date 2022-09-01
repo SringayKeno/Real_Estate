@@ -46,7 +46,7 @@ Our sister project [Forecasting Home Prices in Sacramento County California](htt
 * #### Stored the clean dataset for members to run the mode
 
 ## Data Analysis
-#### What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
+What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
 --------------------------------
 -	X Features and y Target:
 -	y Targets: 
@@ -69,10 +69,10 @@ Our sister project [Forecasting Home Prices in Sacramento County California](htt
 -	2020HousingUnits          
 -	2021HousingUnits          
 
-pop20                     
--	pop21                     
+#### pop20                     
+####	pop21                     
 
-Unemployment_rate_2016     
+-    Unemployment_rate_2016     
 -	unemployment_rate_2017    
 -	unemployment_rate_2018     
 -	unemployment_rate_2019     
@@ -83,19 +83,17 @@ Unemployment_rate_2016
 -	Train & Test Data size:
 -	2843 samples, 80% training sets, and 20% test sets.
 
--	Model: Random Forest Regressor
+-	#### Model: Random Forest Regressor
 o	Different from the classifier models, our machine learning model needs to predict a precise housing value. Therefore, we chose Random Forest Regressor.
 o	We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
 o	We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
 o	
--	Machine Learning Training:
+-	#### Machine Learning Training:
 1st Training: Using only July values of previous years to predict the July value of 2022
 $10144 average error;  4.25% error
  
   
- 
- 
-Result:
+#### Result:
 -	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
 -	We reduced 85% of the average error.
 
