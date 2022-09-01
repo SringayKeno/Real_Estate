@@ -46,6 +46,7 @@ Our sister project [Forecasting Home Prices in Sacramento County California](htt
 * #### Stored the clean dataset for members to run the mode
 
 ## Data Analysis
+
 What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
 --------------------------------
 -	X Features and y Target:
@@ -67,11 +68,9 @@ What external factors influence the housing value most apart from the conditions
 -	JunValue22                
 -	JulyValue22               
 -	2020HousingUnits          
--	2021HousingUnits          
-
-#### pop20                     
-####	pop21                     
-
+-    2021HousingUnits          
+-    pop20                     
+-    pop21                     
 -    Unemployment_rate_2016     
 -	unemployment_rate_2017    
 -	unemployment_rate_2018     
