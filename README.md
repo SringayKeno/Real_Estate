@@ -6,6 +6,9 @@
 
 ### Project Overview
 
+
+#### Project Description
+
 #### Why we selected this project
 
 
@@ -29,7 +32,6 @@
 * Project tracked using <a href="https://finalproject7.monday.com/boards/3094167465" >Monday.com's Project Tracker</a>
 * Project status meetings nightly at 5pm and or 7pm weekdays. 10am on Saturdays
 
-### Project Description
 
 ### Data Analysis
 
