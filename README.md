@@ -33,17 +33,19 @@
 * Project status meetings nightly at 5pm and or 7pm weekdays. 10am on Saturdays
 
 
-### Data Analysis
-
 ### Database
 ![image](https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png)
 
 *information about my sql tables will go here
+
+
+
+
+## Data Analysis
+
 ### Machine Learning
 
-### Defining Model
-
-### Analysis
+### Analysis Summary
 
 ### Future Perspective
 
