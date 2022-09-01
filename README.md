@@ -1,13 +1,15 @@
 
 
-# Project Title
+# Housing Value Prediction
 
 ![r-architecture-ujGLsMmXoBg-unsplash - Copy - Copy](https://user-images.githubusercontent.com/102890151/184289324-70cc4694-fb49-44e5-acf5-2fd669545f6f.jpg)
 
 ## Project Overview
-
-
 #### Project Description
+
+
+
+Our sister project [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found here in Github.
 
 #### Why we selected this project
 
@@ -22,8 +24,7 @@
      
 * ####  Software: Google Slides, Git Bash, Jupyter Notebook, MySQL Workbench 8.0, Slack,  Tableau 2022.1, VScode
 * ####  Languages: Python 3.7
-* ####  Libraries:  MongoClient, pandas pymongo, numpy, RandomForestRegressor, rfpimp, sklearn.model, statistics
-
+* ####  Libraries:  pandas, pymongo, numpy, RandomForestRegressor, rfpimp, sklearn.model, statistics
 * ####  Machine Learning Model: Random Forest Regressor
 * ####  Database: MySQL Server, MongoDB Cloud
 
