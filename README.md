@@ -20,12 +20,12 @@
 
 #### * Data Sources: <a href="https://www.zillow.com/research/data/" >Zillow's research data</a> and Census Data <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
      
-* ####  Software: Jupyter Notebook, Tableau 2022.1, Google Slides, Git Bash, Slack
+* ####  Software: Google Slides, Git Bash, Jupyter Notebook, MySQL Workbench 8.0, Slack,  Tableau 2022.1, VScode
 * ####  Languages: Python 3.7
 * ####  Libraries:  MongoClient, pandas pymongo, numpy, RandomForestRegressor, rfpimp, sklearn.model, statistics
 
 * ####  Machine Learning Model: Random Forest Regressor
-* ####  Database: MySQL Workbench 8.0
+* ####  Database: MySQL Server, MongoDB Cloud
 
 ## Communication Resources
 
