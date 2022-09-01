@@ -9,7 +9,7 @@
 
 
 
-Our sister project [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can be found here in Github.
+Our sister project [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can also be found here in Github.
 
 #### Why we selected this project
 
@@ -38,8 +38,12 @@ Our sister project [Forecasting Home Prices in Sacramento County California](htt
 ## Database
 ![image](https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png)
 
-*information about my sql tables will go here
-
+### Cleaning Data in Local Relational Database:
+* #### Precleaned the datasets from multiple sources in Excel to ensure all counties names are in the correct format.
+* #### Imported the four csv files to MySQL for joining 
+* #### extracted the useful values and renamed all the columns for modeling.
+### Cloud Database: MongoDB 
+* #### Stored the clean dataset for members to run the mode
 
 
 
