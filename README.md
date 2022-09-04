@@ -14,6 +14,18 @@ Our sister project [Forecasting Home Prices in Sacramento County California](htt
 #### Why we selected this project
 
 
+Real Estate has always been a popular topic, and people have paid more attention to 
+housing since Covid-19 exploded and remote jobs became pervasive. When home is 
+where the work is, and the wave of millennials reaching home-buying age (census), 
+we've seen tremendous price growth in many areas in the past two years. How many 
+people in the Bay Area gained an extra million dollars from their houses for the markup 
+of the prices? And where would people go to get their dreamed homes and leave behind 
+Silicon Valley and its ridiculous housing price? We are curious about the housing market 
+during this particular time and wonder what the future holds.
+
+
+
+
 
 #### Questions we hope to answer with data
 
@@ -172,8 +184,6 @@ $10144 average error;  4.25% error
 -	Check here for more information.
 
 
-
->>>>>>> e37c806c5cbdb7f0164e12dc95aebeccbb292ad8
 
 
 
