@@ -60,7 +60,6 @@ during this particular time and wonder what the future holds.
 ## Data Analysis
 --------------------------------
 What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
-<<<<<<< HEAD
 
 
 -	X Features and y Target:
