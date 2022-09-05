@@ -7,7 +7,7 @@
 ## Project Overview
 #### Project Description
 
-
+Using Random Forest Regressor supervised learning algorithm to predict homes values for the US mid-tier range and to discover what external factors influence the housing value.
 
 Our sister project [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can also be found here in Github.
 
