@@ -20,16 +20,16 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 
 #### Questions we hope to answer/explore with data
-*Can we use historical housing inventory to predict future housing inventory in the US by state?
-*Can we use historical housing values to predict future housing values in the US by state?
-*What is the range of available housing inventory by county? By state?
-*What is the range of housing values by county? By state?
-*Is there a relationship between population, housing inventory, and housing values?
-*Is there a relationship between income and housing values?
-*What external factors influence the housing value most (apart from the conditions like the lot size and bedroom/bathroom numbers of a house)?
-*What references should we look at when we are predicting the next month's value?
-*Is there a difference when modeling low/mid/high tier housing values?
-*Can we predict the next jewel of the real estate market for living and investment purpose?
+###*Can we use historical housing inventory to predict future housing inventory in the US by state?
+###*Can we use historical housing values to predict future housing values in the US by state?
+###*What is the range of available housing inventory by county? By state?
+###*What is the range of housing values by county? By state?
+###*Is there a relationship between population, housing inventory, and housing values?
+###*Is there a relationship between income and housing values?
+###*What external factors influence the housing value most (apart from the conditions like the lot size and bedroom/bathroom numbers of a house)?
+###*What references should we look at when we are predicting the next month's value?
+###*Is there a difference when modeling low/mid/high tier housing values?
+###*Can we predict the next jewel of the real estate market for living and investment purpose?
 
 ## Resources
 
