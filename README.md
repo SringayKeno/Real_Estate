@@ -7,27 +7,34 @@
 ## Project Overview
 #### Project Description
 
-Using Random Forest Regressor supervised learning algorithm to predict homes values for the US mid-tier range and to discover what external factors influence the housing value.
+The goal of this project is to explore housing values and inventory in the United States. We primarily relied on data from Zillow, with additional data sources to add context and variables which we used to enhance the analysis. We explored low/mid/high tier housing values, but focused on mid-tier housing. We focused on the months of July 2021 and July 2022. We looked at different geographical categorizations and compared data at the County, Metropolitan Area, and State level. The ultimate outcome was a prediction of July 2022 housing values for mid-tier housing grouped by state using Random Forest Regressor supervised learning algorithm and the discovery of what external factors influence the housing value.
 
 Our sister project [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can also be found here in Github.
 
 #### Why we selected this project
 
+Real estate is a big deal! Anyone who has had to pay for the privelage of a roof over their head knows that paying rent or, if you are lucky enough to own, paying a mortgage is a major financial investment. When 35% (at least) of your income is going into your home - you want to make sure that you are choosing to live in a place where your dollar feels like an investment and not a waste. 
 
-Real Estate has always been a popular topic, and people have paid more attention to 
-housing since Covid-19 exploded and remote jobs became pervasive. When home is 
-where the work is, and the wave of millennials reaching home-buying age (census), 
-we've seen tremendous price growth in many areas in the past two years. How many 
-people in the Bay Area gained an extra million dollars from their houses for the markup 
-of the prices? And where would people go to get their dreamed homes and leave behind 
-Silicon Valley and its ridiculous housing price? We are curious about the housing market 
-during this particular time and wonder what the future holds.
+When looking at potential projects, our group wanted to explore this further. The financial burden associated with buying a house is a major commitment. Our group came together with the shared goal of using existing data to explore which regions have housing and how the value of that housing stock will change in the foreseeable future. Our hope was to build a tool and visualizations that would help potential buyers make an informed decision when deciding where to buy. 
 
+Real Estate has always been a popular topic, and people have paid more attention to housing since Covid-19 exploded and remote jobs became pervasive. When home is where the work is, and the wave of millennials reaching home-buying age (census), we've seen tremendous price growth in many areas in the past two years. How many 
+people in the Bay Area gained an extra million dollars from their houses for the markup of the prices? And where would people go to get their dreamed homes and leave behind Silicon Valley and its ridiculous housing price? We are curious about the housing market during this particular time and wonder what the future holds.
 
-
+In addition to a shared interest, we were also intrigued by the wide range of data that was readily available for our analysis. We knew that with the large amount of quality data available, we would be able to explore this topic fully and answer some hard questions using data analytics!
 
 
 #### Questions we hope to answer with data
+
+* #### Can we use historical housing inventory to predict future housing inventory in the US by state?
+* #### Can we use historical housing values to predict future housing values in the US by state?
+* #### What is the range of available housing inventory by county? By state?
+* #### What is the range of housing values by county? By state?
+* #### Is there a relationship between population, housing inventory, and housing values?
+* #### Is there a relationship between income and housing values?
+* #### What external factors influence the housing value most (apart from the conditions like the lot size and bedroom/bathroom numbers of a house)?
+* #### What references should we look at when we are predicting the next month's value?
+* #### Is there a difference when modeling low/mid/high tier housing values?
+* #### Can we predict the next jewel of the real estate market for living and investment purpose?
 
 
 ## Resources
@@ -56,6 +63,15 @@ during this particular time and wonder what the future holds.
 * #### extracted the useful values and renamed all the columns for modeling.
 ### Cloud Database: MongoDB 
 * #### Stored the clean dataset for members to run the mode
+
+
+
+## Data Visualizations
+*Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
+*July 2021 Dashboard can be found at https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link
+
+![image](https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png)
+
 
 ## Data Analysis
 --------------------------------
