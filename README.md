@@ -39,13 +39,13 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 ## Resources
 
-* ####  Data Sources: <a href="https://www.zillow.com/research/data/" >Zillow's research data</a> and Census Data <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
+*   Data Sources: <a href="https://www.zillow.com/research/data/" >Zillow's research data</a> and Census Data <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
      
-* ####  Software: Google Slides, Git Bash, Jupyter Notebook, MySQL Workbench 8.0, Slack,  Tableau 2022.1, VScode
-* ####  Languages: Python 3.7
-* ####  Libraries:  pandas, pymongo, numpy, RandomForestRegressor, rfpimp, sklearn.model, statistics
-* ####  Machine Learning Model: Random Forest Regressor
-* ####  Database: MySQL Server, MongoDB Cloud
+*   Software: Google Slides, Git Bash, Jupyter Notebook, MySQL Workbench 8.0, Slack,  Tableau 2022.1, VScode
+*   Languages: Python 3.7
+*   Libraries:  pandas, pymongo, numpy, RandomForestRegressor, rfpimp, sklearn.model, statistics
+*   Machine Learning Model: Random Forest Regressor
+*   Database: MySQL Server, MongoDB Cloud
 
 ## Communication Resources
 
@@ -57,12 +57,12 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 ## Database
 ![image](https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png)
 
-### Cleaning Data in Local Relational Database:
-* #### Precleaned the datasets from multiple sources in Excel to ensure all counties names are in the correct format.
-* #### Imported the four csv files to MySQL for joining 
-* #### extracted the useful values and renamed all the columns for modeling.
-### Cloud Database: MongoDB 
-* #### Stored the clean dataset for members to run the mode
+#### Cleaning Data in Local Relational Database:
+*  Precleaned the datasets from multiple sources in Excel to ensure all counties names are in the correct format.
+*  Imported the four csv files to MySQL for joining 
+*  extracted the useful values and renamed all the columns for modeling.
+#### Cloud Database: MongoDB 
+*  Stored the clean dataset for members to run the mode
 
 
 
