@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2FReal_Estate&count_bg=%231C7CAA&title_bg=%23555555&icon=homeassistant.svg&icon_color=%23E7E7E7&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Table of Contents
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png) Table of Contents 
 <details>
   <summary>Click to expand or hide</summary>
 
@@ -25,7 +25,7 @@
 </details>
 
 
-## Project Overview
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Project Overview
 #### Project Description
 
 The goal of this project is to explore housing values and inventory in the United States. We primarily relied on data from Zillow, with additional data sources to add context and variables which we used to enhance the analysis. We explored low/mid/high tier housing values, but focused on mid-tier housing. We focused on the months of July 2021 and July 2022. We looked at different geographical categorizations and compared data at the County, Metropolitan Area, and State level. The ultimate outcome was a prediction of July 2022 housing values for mid-tier housing grouped by state using Random Forest Regressor supervised learning algorithm and the discovery of what external factors influence the housing value.
@@ -59,7 +59,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 * #### Can we predict the next jewel of the real estate market for living and investment purpose?
 
 
-## Resources
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Resources
 
 *   Data Sources: <a href="https://www.zillow.com/research/data/" >Zillow's research data</a> and Census Data <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
      
@@ -69,14 +69,14 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 *   Machine Learning Model: Random Forest Regressor
 *   Database: MySQL Server, MongoDB Cloud
 
-## Communication Resources
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Communication Resources
 
 * Group chat on Slack.
 * Project tracked using <a href="https://finalproject7.monday.com/boards/3094167465" >Monday.com's Project Tracker</a>
 * Project status meetings nightly at 5pm and or 7pm weekdays. 10am on Saturdays
 
 
-## Database
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Database
 
 <img src="https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png"  width="600" height="300">
 
@@ -88,7 +88,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 *  Stored the clean dataset for members to run the mode
 
 
-## Data Visualizations
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Data Visualizations
 Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
 The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link)
 
@@ -99,7 +99,7 @@ The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/s
 
 <img src="https://user-images.githubusercontent.com/102890151/188559451-4c1c783e-30f3-45b6-a756-f4768391fa7d.png"  width="520" height="8000">
 
-## Data Analysis
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Data Analysis
 
 What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
 
@@ -147,13 +147,13 @@ What external factors influence the housing value most apart from the conditions
 -	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
 -	We reduced 85% of the average error.
 
-## Analysis Summary:
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Analysis Summary:
 -	The previous month's housing values are the most informative references to look at when we are predicting the next month's value.
 -	For the mid-tier housing value of July 2022, apart from the most recent months' housing values as valuable references, the housing value of the same month of previous years also counts. In addition, medium household income also has a positive impact on housing value prediction.
   
   <img src="https://user-images.githubusercontent.com/102890151/188555372-9d5948ae-d759-4381-be54-b60c5afc9d88.png"  width="700" height="400">
 
-## Future Perspective:
+## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Future Perspective:
 -	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
 -	Based on the data at hand, we assume that the unemployment rate might have a positive impact on bottom-tier housing value, and the median age of a county will also influence the Top tier housing value of this area. Nevertheless, the previous years' and months' housing values are still the most important features for future value prediction. We need to run both datasets to approve these assumptions.
 -	Apart from housing value prediction, we also want to see the overall trend of the Real Estate market all over the country. We have a sister project using another model to predict the next jewel of the real estate market for living and investment purposes.
