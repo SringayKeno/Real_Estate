@@ -4,7 +4,25 @@
 
 <img src="https://user-images.githubusercontent.com/102890151/184289324-70cc4694-fb49-44e5-acf5-2fd669545f6f.jpg"  width="1000" height="250">
 
+## Table of contents
+<details>
+  <summary>Click to expand or hide</summary>
 
+
+* [Project Overview](#project-overview)
+   * [Project Description](#project-description) 
+   * [Why we selected this project](#why-we-selected-this-project) 
+   * [Questions we hope to answer with the data](#questions-we-hope-to-answer-with-the-data) 
+* [Resources](#resources) 
+* [Communication Resources](#communication-resources)   
+* [Database](#database) 
+* [Data Visualizations](#data-visualizations) 
+   * [Additional visualizations and 4 insights from housing data](#additional-visualizations-and-4-insights-from-housing-data) 
+* [Data Analysis](#data-analysis)   
+* [Analysis Summary](#analysis-summary) 
+* [Future Perspective](#future-perspective)
+	
+</details>
 
 ## Project Overview
 #### Project Description
@@ -12,6 +30,7 @@
 The goal of this project is to explore housing values and inventory in the United States. We primarily relied on data from Zillow, with additional data sources to add context and variables which we used to enhance the analysis. We explored low/mid/high tier housing values, but focused on mid-tier housing. We focused on the months of July 2021 and July 2022. We looked at different geographical categorizations and compared data at the County, Metropolitan Area, and State level. The ultimate outcome was a prediction of July 2022 housing values for mid-tier housing grouped by state using Random Forest Regressor supervised learning algorithm and the discovery of what external factors influence the housing value.
 
 Our sister project [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can also be found here in Github.
+
 
 #### Why we selected this project
 
