@@ -96,7 +96,7 @@ The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/s
 
 ### Additional visualizations and 4 insights from housing data
 
-<img src="https://user-images.githubusercontent.com/102890151/188559451-4c1c783e-30f3-45b6-a756-f4768391fa7d.png"  width="500" height="8000">
+<img src="https://user-images.githubusercontent.com/102890151/188559451-4c1c783e-30f3-45b6-a756-f4768391fa7d.png"  width="520" height="8000">
 
 ## Data Analysis
 
