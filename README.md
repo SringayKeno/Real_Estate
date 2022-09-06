@@ -8,7 +8,8 @@
 <details>
   <summary>Click to expand or hide</summary>
 
-
+<br/>
+	
 * [Project Overview](#project-overview)
    * [Project Description](#project-description) 
    * [Why we selected this project](#why-we-selected-this-project) 
