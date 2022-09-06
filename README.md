@@ -55,7 +55,8 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 
 ## Database
-![image](https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png)
+
+<img src="https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png"  width="600" height="300">
 
 #### Cleaning Data in Local Relational Database:
 *  Precleaned the datasets from multiple sources in Excel to ensure all counties names are in the correct format.
@@ -70,8 +71,8 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 *Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
 *July 2021 Dashboard can be found at https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link
 
-![image](https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png)
 
+<img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="600" height="300">
 
 ## Data Analysis
 
@@ -103,9 +104,9 @@ What external factors influence the housing value most apart from the conditions
         1st Training: Using only July values of previous years to predict the July value of 2022
         $10144 average error;  4.25% error
  
-  <img src="https://user-images.githubusercontent.com/102890151/188555088-3e701c65-d5b0-49c6-ab2f-35bbd908662f.png"  width="400" height="400">
+  <img src="https://user-images.githubusercontent.com/102890151/188555088-3e701c65-d5b0-49c6-ab2f-35bbd908662f.png"  width="600" height="500">
   
-  <img src="https://user-images.githubusercontent.com/102890151/188555212-e8c40814-77b8-437b-98eb-e7f3c9cc99ac.png"  width="400" height="400">
+  <img src="https://user-images.githubusercontent.com/102890151/188555212-e8c40814-77b8-437b-98eb-e7f3c9cc99ac.png"  width="600" height="500">
 
   <img src="https://user-images.githubusercontent.com/102890151/188555239-fe54f484-2a05-4e8d-9d55-510530bfaac2.png"  width="500" height="400">
   
