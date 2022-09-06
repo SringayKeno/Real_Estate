@@ -87,7 +87,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 ## Data Visualizations
 Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
-July 2021 Dashboard can be found at https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link
+The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link)
 
 
 <img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="600" height="300">
