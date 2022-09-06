@@ -77,114 +77,45 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 --------------------------------
 What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
 
+*  ####  X Features and y Target:
+	* ####  y Targets: 
+	   * ####  July 2022 value (mid-tier housing value)
+	* ###  X Features:
+	   * StateCodeFIPs           
+	   * JulyValue2016- JulyValue21               	
+        * JanValue2022-JulyValue2022               
+	   * 2020HousingUnits          
+	   * 2021HousingUnits          
+	   * pop20  and pop21                     
+	   * Unemployment_rate_2016 -unemployment_rate_2021      
+	   * MedHHIncome2020             
+	   * MedHHIncomePercent2020     
 
--	X Features and y Target:
--	y Targets: 
--	July 2022 value (mid-tier housing value)
--    X Features:
--	StateCodeFIPs           
--	JulyValue16               
--	JulyValue17               
--	Julyvalue18               
--	Julyvalue19               
--	Julyvalue20               
--	Julyvalue21               
--	JanValue22                
--	Febvalue22                
--	MarValue22                
--	AprValue22                
--	MayValue22                
--	JunValue22                
--	JulyValue22               
--	2020HousingUnits          
--    2021HousingUnits          
--    pop20                     
--    pop21                     
--    Unemployment_rate_2016     
--	unemployment_rate_2017    
--	unemployment_rate_2018     
--	unemployment_rate_2019     
--	unemployment_rate_2020     
--	unemployment_rate_2021      
--    MedHHIncome2020             
--	MedHHIncomePercent2020     
--	Train & Test Data size:
+	Train & Test Data size:
 -	2843 samples, 80% training sets, and 20% test sets.
 
--	#### Model: Random Forest Regressor
-o	Different from the classifier models, our machine learning model needs to predict a precise housing value. Therefore, we chose Random Forest Regressor.
-o	We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
-o	We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
-o	
--	#### Machine Learning Training:
-1st Training: Using only July values of previous years to predict the July value of 2022
-$10144 average error;  4.25% error
+     #### Model: Random Forest Regressor
+	Different from the classifier models, our machine learning model needs to predict a precise housing value. Therefore, we chose Random Forest Regressor.
+	We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
+	We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
+	
+
  
   
 #### Result:
 -	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
 -	We reduced 85% of the average error.
 
-## Analysis Summary:
--	The previous month's housing values are the most informative references to look at when we are predicting the next month's value.
--	For the mid-tier housing value of July 2022, apart from the most recent months' housing values as valuable references, the housing value of the same month of previous years also counts. In addition, medium household income also has a positive impact on housing value prediction.
-
- 
-
-## Future Perspective:
--	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
--	Based on the data at hand, we assume that the unemployment rate might have a positive impact on bottom-tier housing value, and the median age of a county will also influence the Top tier housing value of this area. Nevertheless, the previous years' and months' housing values are still the most important features for future value prediction. We need to run both datasets to approve these assumptions.
--	Apart from housing value prediction, we also want to see the overall trend of the Real Estate market all over the country. We have a sister project using another model to predict the next jewel of the real estate market for living and investment purposes.
--	Check here for more information.
-=======
 
 
--	X Features and y Target:
--	y Targets: 
--	July 2022 value (mid-tier housing value)
--    X Features:
--	StateCodeFIPs           
--	JulyValue16               
--	JulyValue17               
--	Julyvalue18               
--	Julyvalue19               
--	Julyvalue20               
--	Julyvalue21               
--	JanValue22                
--	Febvalue22                
--	MarValue22                
--	AprValue22                
--	MayValue22                
--	JunValue22                
--	JulyValue22               
--	2020HousingUnits          
--    2021HousingUnits          
--    pop20                     
--    pop21                     
--    Unemployment_rate_2016     
--	unemployment_rate_2017    
--	unemployment_rate_2018     
--	unemployment_rate_2019     
--	unemployment_rate_2020     
--	unemployment_rate_2021      
--    MedHHIncome2020             
--	MedHHIncomePercent2020     
--	Train & Test Data size:
--	2843 samples, 80% training sets, and 20% test sets.
 
--	#### Model: Random Forest Regressor
-o	Different from the classifier models, our machine learning model needs to predict a precise housing value. Therefore, we chose Random Forest Regressor.
-o	We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
-o	We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
-o	
--	#### Machine Learning Training:
+	
+	#### Machine Learning Training:
 1st Training: Using only July values of previous years to predict the July value of 2022
 $10144 average error;  4.25% error
  
   
-#### Result:
--	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
--	We reduced 85% of the average error.
+
 
 ## Analysis Summary:
 -	The previous month's housing values are the most informative references to look at when we are predicting the next month's value.
