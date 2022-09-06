@@ -159,9 +159,3 @@ What external factors influence the housing value most apart from the conditions
 [To top of page](#table-of-contents)
 
  
-
-## Future Perspective:
--	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
--	Based on the data at hand, we assume that the unemployment rate might have a positive impact on bottom-tier housing value, and the median age of a county will also influence the Top tier housing value of this area. Nevertheless, the previous years' and months' housing values are still the most important features for future value prediction. We need to run both datasets to approve these assumptions.
--	Apart from housing value prediction, we also want to see the overall trend of the Real Estate market all over the country. We have a sister project using another model to predict the next jewel of the real estate market for living and investment purposes.
--	Check here for more information.
