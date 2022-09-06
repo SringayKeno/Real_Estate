@@ -2,7 +2,9 @@
 
 <img src="https://user-images.githubusercontent.com/102890151/184289324-70cc4694-fb49-44e5-acf5-2fd669545f6f.jpg"  width="1000" height="250">
 
-## Table of contents
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2FReal_Estate&count_bg=%2341A8DA&title_bg=%23555555&icon=homeassistant.svg&icon_color=%23E7E7E7&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Table of Contents
 <details>
   <summary>Click to expand or hide</summary>
 
