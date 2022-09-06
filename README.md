@@ -2,7 +2,9 @@
 
 # Housing Value Prediction
 
-![r-architecture-ujGLsMmXoBg-unsplash - Copy - Copy](https://user-images.githubusercontent.com/102890151/184289324-70cc4694-fb49-44e5-acf5-2fd669545f6f.jpg)
+<img src="https://user-images.githubusercontent.com/102890151/184289324-70cc4694-fb49-44e5-acf5-2fd669545f6f.jpg"  width="1000" height="250">
+
+
 
 ## Project Overview
 #### Project Description
@@ -66,17 +68,23 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 *  Stored the clean dataset for members to run the mode
 
 
-
 ## Data Visualizations
-*Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
-*July 2021 Dashboard can be found at https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link
+Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
+July 2021 Dashboard can be found at https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link
 
 
 <img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="600" height="300">
 
+### Additional visualizations and 4 insights from housing data
+
+<img src="https://user-images.githubusercontent.com/102890151/188559451-4c1c783e-30f3-45b6-a756-f4768391fa7d.png"  width="500" height="8000">
+
 ## Data Analysis
 
 What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
+
+
+
 
 *  ####  X Features and y Target:
 	* ####  y Targets: 
