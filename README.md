@@ -23,7 +23,7 @@ people in the Bay Area gained an extra million dollars from their houses for the
 In addition to a shared interest, we were also intrigued by the wide range of data that was readily available for our analysis. We knew that with the large amount of quality data available, we would be able to explore this topic fully and answer some hard questions using data analytics!
 
 
-#### Questions we hope to answer with data
+#### Questions we hope to answer with the data:
 
 * #### Can we use historical housing inventory to predict future housing inventory in the US by state?
 * #### Can we use historical housing values to predict future housing values in the US by state?
@@ -39,7 +39,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 ## Resources
 
-#### * Data Sources: <a href="https://www.zillow.com/research/data/" >Zillow's research data</a> and Census Data <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
+* ####  Data Sources: <a href="https://www.zillow.com/research/data/" >Zillow's research data</a> and Census Data <a href="https://www.census.gov/programs-surveys/popest/data/tables.html" >Metro Population 21</a>
      
 * ####  Software: Google Slides, Git Bash, Jupyter Notebook, MySQL Workbench 8.0, Slack,  Tableau 2022.1, VScode
 * ####  Languages: Python 3.7
@@ -74,7 +74,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 
 ## Data Analysis
---------------------------------
+
 What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
 
 *  ####  X Features and y Target:
@@ -102,7 +102,7 @@ What external factors influence the housing value most apart from the conditions
 
  
   
-#### Result:
+#### Results:
 -	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
 -	We reduced 85% of the average error.
 
@@ -111,8 +111,8 @@ What external factors influence the housing value most apart from the conditions
 
 	
 	#### Machine Learning Training:
-1st Training: Using only July values of previous years to predict the July value of 2022
-$10144 average error;  4.25% error
+        1st Training: Using only July values of previous years to predict the July value of 2022
+        $10144 average error;  4.25% error
  
   
 
@@ -127,7 +127,7 @@ $10144 average error;  4.25% error
 -	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
 -	Based on the data at hand, we assume that the unemployment rate might have a positive impact on bottom-tier housing value, and the median age of a county will also influence the Top tier housing value of this area. Nevertheless, the previous years' and months' housing values are still the most important features for future value prediction. We need to run both datasets to approve these assumptions.
 -	Apart from housing value prediction, we also want to see the overall trend of the Real Estate market all over the country. We have a sister project using another model to predict the next jewel of the real estate market for living and investment purposes.
--	Check here for more information.
+-	[Check here for more information](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county)
 
 
 
