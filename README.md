@@ -99,29 +99,31 @@ What external factors influence the housing value most apart from the conditions
 	We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
 	We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
 	
-
- 
-  
-#### Results:
--	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
--	We reduced 85% of the average error.
-
-
-
-
-	
 	#### Machine Learning Training:
         1st Training: Using only July values of previous years to predict the July value of 2022
         $10144 average error;  4.25% error
  
+  <img src="https://user-images.githubusercontent.com/102890151/188555088-3e701c65-d5b0-49c6-ab2f-35bbd908662f.png"  width="700" height="400">
   
+  <img src="https://user-images.githubusercontent.com/102890151/188555212-e8c40814-77b8-437b-98eb-e7f3c9cc99ac.png"  width="700" height="400">
 
+  <img src="https://user-images.githubusercontent.com/102890151/188555239-fe54f484-2a05-4e8d-9d55-510530bfaac2.png"  width="700" height="400">
+  
+  <img src="https://user-images.githubusercontent.com/102890151/188555267-71723a89-88cd-4ed3-b6aa-ee8cc354b62d.png"  width="700" height="400">
+  
+  <img src="https://user-images.githubusercontent.com/102890151/188555321-166b3ee9-1212-4a52-8f62-7a641ab05827.png"  width="700" height="400">
+  
+  <img src="https://user-images.githubusercontent.com/102890151/188555321-166b3ee9-1212-4a52-8f62-7a641ab05827.png"  width="700" height="400">
+
+#### Results:
+-	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
+-	We reduced 85% of the average error.
 
 ## Analysis Summary:
 -	The previous month's housing values are the most informative references to look at when we are predicting the next month's value.
 -	For the mid-tier housing value of July 2022, apart from the most recent months' housing values as valuable references, the housing value of the same month of previous years also counts. In addition, medium household income also has a positive impact on housing value prediction.
-
- 
+  
+  <img src="https://user-images.githubusercontent.com/102890151/188555372-9d5948ae-d759-4381-be54-b60c5afc9d88.png"  width="700" height="400">
 
 ## Future Perspective:
 -	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
