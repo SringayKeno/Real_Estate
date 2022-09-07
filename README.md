@@ -94,6 +94,7 @@ This interactive visual [July 2021 Dashboard is here on Tableau Public](https://
 
 <img width="500" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
 
+[To top of page](#housing-value-prediction-with-random-forest-regressor)
 
 ##   Database
 
@@ -104,8 +105,8 @@ A conceptual diagram our future database.
 #### Cleaning Data in Local Relational Database:
 *  Precleaned the datasets from multiple sources in Excel to ensure all counties names are in the correct format.
 *  Imported the four csv files to MySQL for joining 
-*  extracted the useful values and renamed all the columns for modeling.
-*  
+*  Extracted the useful values and renamed all the columns for modeling.
+
 #### Cloud Database: MongoDB 
 *  Stored the clean dataset for members to run the mode
 
