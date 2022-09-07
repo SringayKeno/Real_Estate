@@ -94,7 +94,7 @@ This interactive visual [July 2021 Dashboard is here on Tableau Public](https://
 
 <img width="500" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
 
-[To top of page](#housing-value-prediction-with-random-forest-regressor)
+[Back to top of page](#housing-value-prediction-with-random-forest-regressor)
 
 ##   Database
 
