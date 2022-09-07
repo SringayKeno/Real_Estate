@@ -99,7 +99,8 @@ The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/s
 
 <img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="550" height="275">
 
-### 4 Additional visualizations and 4 insights from housing data
+#### 4 Additional visualizations and 4 insights from housing data
+<br/>
 
 These Tableau slides can be viewed [here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
@@ -135,7 +136,7 @@ We calculate the average error number and the error rate. For example, if the mi
 	
 ### Machine Learning Training:
         
-  ### 1) The 1st Training: Using only July values from previous years to predict the July value of 2022
+  #### 1) The 1st Training: Using only July values from previous years to predict the July value of 2022
 	
         $10144 average error;  4.25% error
  
@@ -145,14 +146,14 @@ We calculate the average error number and the error rate. For example, if the mi
 
   
   
- ### 2) Checking the pattern between the predicted values and the actual values
+ #### 2) Checking the pattern between the predicted values and the actual values
   
   
   ![1st](https://user-images.githubusercontent.com/102890151/188794909-a5b851b5-5756-4e1c-80d7-1252b790a4a4.png)
 
   
   
- ### 3) Checking the importance of each feature 
+ #### 3) Checking the importance of each feature 
 
   
   
@@ -160,7 +161,7 @@ We calculate the average error number and the error rate. For example, if the mi
 
 
   
- ### 4) Using the method above, we tried several different feature groups to reduce the average error amount and error rate. 
+ #### 4) Using the method above, we tried several different feature groups to reduce the average error amount and error rate. 
  
 a. 5 previous years’ July mid-tier home values: 4.25% error rate
 b. All the 25 features: 0.95%
