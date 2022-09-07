@@ -125,7 +125,8 @@ What external factors influence the housing value most apart from the conditions
 	   * MedHHIncomePercent2020     
 
    ### Train & Test Data size:
-	   * 2843 samples, 80% training sets, and 20% test sets.
+	 
+	 2843 samples, 80% training sets, and 20% test sets.
 
    ### Model: Random Forest Regressor
 	Different from the classifier models, our machine learning model needs to predict a precise housing value. Therefore, we chose Random Forest Regressor.
