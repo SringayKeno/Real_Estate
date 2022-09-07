@@ -31,7 +31,7 @@
 
 The goal of this project is to explore housing values and inventory in the United States. We primarily relied on data from Zillow, with additional data sources to add context and variables which we used to enhance the analysis. We explored low/mid/high tier housing values, but focused on mid-tier housing. We focused on the months of July 2021 and July 2022. We looked at different geographical categorizations and compared data at the County, Metropolitan Area, and State level. The ultimate outcome was a prediction of July 2022 housing values for mid-tier housing grouped by state using Random Forest Regressor supervised learning algorithm and the discovery of what external factors influence the housing value.
 
-Our sister project [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can also be found here in Github.
+Our sister project, ["Forecasting Home Prices in Sacramento County California"](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can also be found here in Github.
 
 
 #### Why we selected this project
@@ -90,13 +90,18 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 
 ## ![#2874A6 ](https://via.placeholder.com/15/2874A6/2874A6.png)  Data Visualizations
+
+### Housing values, housing inventory, and population in July 2021
+
 Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
 The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link)
 
 
-<img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="600" height="300">
+<img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="550" height="275">
 
-### Additional visualizations and 4 insights from housing data
+### 4 Additional visualizations and 4 insights from housing data
+
+These Tableau slides can be viewed [here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
 <img src="https://user-images.githubusercontent.com/102890151/188559451-4c1c783e-30f3-45b6-a756-f4768391fa7d.png"  width="520" height="8000">
 
@@ -105,12 +110,10 @@ The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/s
 What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
 
 
-
-
-*  ####  X Features and y Target:
+ * ###  X Features and y Target:
 	* ####  y Targets: 
-	   * ####  July 2022 value (mid-tier housing value)
-	* ###  X Features:
+	   * July 2022 value (mid-tier housing value)
+	* ####  X Features:
 	   * StateCodeFIPs           
 	   * JulyValue2016- JulyValue21               	
         * JanValue2022-JulyValue2022               
@@ -121,15 +124,15 @@ What external factors influence the housing value most apart from the conditions
 	   * MedHHIncome2020             
 	   * MedHHIncomePercent2020     
 
-	Train & Test Data size:
--	2843 samples, 80% training sets, and 20% test sets.
+   ### Train & Test Data size:
+	   * 2843 samples, 80% training sets, and 20% test sets.
 
-     #### Model: Random Forest Regressor
+   ### Model: Random Forest Regressor
 	Different from the classifier models, our machine learning model needs to predict a precise housing value. Therefore, we chose Random Forest Regressor.
 	We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
 	We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
 	
-	#### Machine Learning Training:
+### Machine Learning Training:
         1st Training: Using only July values of previous years to predict the July value of 2022
         $10144 average error;  4.25% error
  
@@ -144,7 +147,7 @@ What external factors influence the housing value most apart from the conditions
   <img src="https://user-images.githubusercontent.com/102890151/188555321-166b3ee9-1212-4a52-8f62-7a641ab05827.png"  width="700" height="400">
   
 
-#### Results:
+### Results:
 -	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
 -	We reduced 85% of the average error.
 
@@ -158,7 +161,7 @@ What external factors influence the housing value most apart from the conditions
 -	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
 -	Based on the data at hand, we assume that the unemployment rate might have a positive impact on bottom-tier housing value, and the median age of a county will also influence the Top tier housing value of this area. Nevertheless, the previous years' and months' housing values are still the most important features for future value prediction. We need to run both datasets to approve these assumptions.
 -	Apart from housing value prediction, we also want to see the overall trend of the Real Estate market all over the country. We have a sister project using another model to predict the next jewel of the real estate market for living and investment purposes.
--	[Check here for more information](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county)
+-	For that project, ["Forecasting Home Prices in Sacramento County California"](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) click on link.
 
 [To top of page](#table-of-contents)
 
