@@ -82,21 +82,22 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 ### Housing values, housing inventory, and population in July 2021
 
 Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
-The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link)
+This interactive visual [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link) can be found in link.
 
 
 <img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="550" height="275">
 
 #### Four additional visualizations and four insights from the housing data
-<br/>
 
-These Tableau slides can be viewed [here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
-<img src="https://user-images.githubusercontent.com/102890151/188559451-4c1c783e-30f3-45b6-a756-f4768391fa7d.png"  width="520" height="8000">
+[These additional visualizations can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
+
+<img width="500" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
+
 
 ##   Database
 
-A conceptual diagram our our future database. 
+A conceptual diagram our future database. 
 
 <img src="https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png"  width="600" height="300">
 
