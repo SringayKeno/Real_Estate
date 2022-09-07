@@ -17,7 +17,7 @@
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
 * [Data Visualizations](#data-visualizations) 
-   * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-housing-data) 
+   * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
 * [Analysis Summary](#analysis-summary) 
@@ -87,7 +87,7 @@ The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/s
 
 <img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="550" height="275">
 
-#### 4 Additional visualizations and 4 insights from housing data
+#### Four additional visualizations and for insights from the housing data
 <br/>
 
 These Tableau slides can be viewed [here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
