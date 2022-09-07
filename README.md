@@ -139,17 +139,25 @@ We calculate the average error number and the error rate. For example, if the mi
 	
         $10144 average error;  4.25% error
  
-  <img src="https://user-images.githubusercontent.com/102890151/188555088-3e701c65-d5b0-49c6-ab2f-35bbd908662f.png"  width="1000" height="550">
+
+  
+  ![code](https://user-images.githubusercontent.com/102890151/188794660-f307e531-f43b-49c4-96ef-96ffa9afe119.png)
+
   
   
  #### 2) Checking the pattern between the predicted values and the actual values
   
-  <img src="https://user-images.githubusercontent.com/102890151/188555212-e8c40814-77b8-437b-98eb-e7f3c9cc99ac.png"  width="950" height="530">
+  
+  ![1st](https://user-images.githubusercontent.com/102890151/188794909-a5b851b5-5756-4e1c-80d7-1252b790a4a4.png)
+
   
   
  #### 3) Checking the importance of each feature 
 
-  <img src="https://user-images.githubusercontent.com/102890151/188555239-fe54f484-2a05-4e8d-9d55-510530bfaac2.png"  width="500" height="600">
+  
+  
+  ![Importance](https://user-images.githubusercontent.com/102890151/188795107-ec0efec5-1096-47ad-8891-115fdf3fc54f.png)
+
 
   
  #### 4) Using the method above, we tried several different feature groups to reduce the average error amount and error rate. 
@@ -178,7 +186,7 @@ and home values from January to June 2022: 0.62% error rate
 -	The previous month's housing values are the most informative references to look at when we are predicting the next month's value.
 -	For the mid-tier housing value of July 2022, apart from the most recent months' housing values as valuable references, the housing value of the same month of previous years also counts. In addition, medium household income also has a positive impact on housing value prediction.
   
-  <img src="https://user-images.githubusercontent.com/102890151/188555372-9d5948ae-d759-4381-be54-b60c5afc9d88.png"  width="700" height="400">
+  <img src="https://user-images.githubusercontent.com/102890151/188555372-9d5948ae-d759-4381-be54-b60c5afc9d88.png"  width="800" height="500">
 
 ##   Future Perspective:
 -	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
