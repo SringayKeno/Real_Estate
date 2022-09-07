@@ -15,10 +15,10 @@
    * [Why we selected this project](#why-we-selected-this-project) 
    * [Questions we hope to answer with the data](#questions-we-hope-to-answer-with-the-data) 
 * [Resources](#resources) 
-* [Communication Resources](#communication-resources)   
-* [Database](#database) 
+* [Communication Resources](#communication-resources)    
 * [Data Visualizations](#data-visualizations) 
-   * [Additional visualizations and 4 insights from housing data](#additional-visualizations-and-4-insights-from-housing-data) 
+   * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-housing-data) 
+* [Database](#database)
 * [Data Analysis](#data-analysis)   
 * [Analysis Summary](#analysis-summary) 
 * [Future Perspective](#future-perspective)
@@ -77,18 +77,6 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 * Project status meetings nightly at 5pm and or 7pm weekdays. 10am on Saturdays
 
 
-##   Database
-
-<img src="https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png"  width="600" height="300">
-
-#### Cleaning Data in Local Relational Database:
-*  Precleaned the datasets from multiple sources in Excel to ensure all counties names are in the correct format.
-*  Imported the four csv files to MySQL for joining 
-*  extracted the useful values and renamed all the columns for modeling.
-#### Cloud Database: MongoDB 
-*  Stored the clean dataset for members to run the mode
-
-
 ##  Data Visualizations
 
 ### Housing values, housing inventory, and population in July 2021
@@ -105,6 +93,20 @@ The [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/s
 These Tableau slides can be viewed [here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
 <img src="https://user-images.githubusercontent.com/102890151/188559451-4c1c783e-30f3-45b6-a756-f4768391fa7d.png"  width="520" height="8000">
+
+##   Database
+
+A conceptual diagram our our future database. 
+
+<img src="https://user-images.githubusercontent.com/103475613/185799553-454b1e1c-a710-468e-b479-09a0faf7c709.png"  width="600" height="300">
+
+#### Cleaning Data in Local Relational Database:
+*  Precleaned the datasets from multiple sources in Excel to ensure all counties names are in the correct format.
+*  Imported the four csv files to MySQL for joining 
+*  extracted the useful values and renamed all the columns for modeling.
+*  
+#### Cloud Database: MongoDB 
+*  Stored the clean dataset for members to run the mode
 
 ##   Data Analysis
 
