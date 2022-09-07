@@ -134,16 +134,36 @@ What external factors influence the housing value most apart from the conditions
 	We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
 	
 ### Machine Learning Training:
-        1st Training: Using only July values of previous years to predict the July value of 2022
+        
+        #### 1st Training: Using only July values of previous years to predict the July value of 2022
         $10144 average error;  4.25% error
  
-  <img src="https://user-images.githubusercontent.com/102890151/188555088-3e701c65-d5b0-49c6-ab2f-35bbd908662f.png"  width="600" height="500">
+  <img src="https://user-images.githubusercontent.com/102890151/188555088-3e701c65-d5b0-49c6-ab2f-35bbd908662f.png"  width="1000" height="550">
   
-  <img src="https://user-images.githubusercontent.com/102890151/188555212-e8c40814-77b8-437b-98eb-e7f3c9cc99ac.png"  width="600" height="500">
+       #### 2) Checking the pattern between the predicted values and the actual values
+  
+  <img src="https://user-images.githubusercontent.com/102890151/188555212-e8c40814-77b8-437b-98eb-e7f3c9cc99ac.png"  width="950" height="530">
+  
+      #### 3) Checking the importance of each feature 
 
-  <img src="https://user-images.githubusercontent.com/102890151/188555239-fe54f484-2a05-4e8d-9d55-510530bfaac2.png"  width="500" height="400">
+  <img src="https://user-images.githubusercontent.com/102890151/188555239-fe54f484-2a05-4e8d-9d55-510530bfaac2.png"  width="500" height="600">
   
-  <img src="https://user-images.githubusercontent.com/102890151/188555267-71723a89-88cd-4ed3-b6aa-ee8cc354b62d.png"  width="500" height="400">
+ 
+  
+     #### 4) Using the method above, we tried several different feature groups to reduce the 
+average error amount and error rate. 
+a. 5 previous years’ July mid-tier home values: 4.25% error rate
+b. All the 25 features: 0.95%
+c. 16 features (dropping the bottom 9 most minor important features): 0.69% 
+error rate
+d. 9 monthly-home-value features: July home values from 2017, 2020, 2021 
+and home values from January to June 2022: 0.62% error rate
+- Result:oWe reduced the average error from $10114 to $1475 and the error rate from
+4.25% to 0.62%,
+oWe reduced 85% of the average error. (1-(4.25%-0.62%)/4.25%)
+## Analysis Summary:
+- The most recent month's home values are very informative references to look at 
+when predicting the next month's value.
   
   <img src="https://user-images.githubusercontent.com/102890151/188555321-166b3ee9-1212-4a52-8f62-7a641ab05827.png"  width="700" height="400">
   
