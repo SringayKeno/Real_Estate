@@ -1,5 +1,3 @@
-
-
 # Housing Value Prediction with Random Forest Regressor
 
 <img src="https://user-images.githubusercontent.com/102890151/184289324-70cc4694-fb49-44e5-acf5-2fd669545f6f.jpg"  width="1000" height="250">
@@ -90,7 +88,7 @@ This interactive visual [July 2021 Dashboard is here on Tableau Public](https://
 
 <img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="550" height="275">
 
-#### Four additional visualizations and four insights from the housing data
+### Four additional visualizations and four insights from the housing data
 
 
 [These additional visualizations can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
