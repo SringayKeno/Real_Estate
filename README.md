@@ -22,6 +22,7 @@
 * [Data Analysis](#data-analysis)   
 * [Analysis Summary](#analysis-summary) 
 * [Future Perspective](#future-perspective)
+* [Links](#links)
 	
 </details>
 
@@ -196,8 +197,18 @@ and home values from January to June 2022: 0.62% error rate
 ##   Future Perspective:
 -	We can use the same model to run the Top Tier housing value prediction or Bottom Tier Housing value prediction. 
 -	Based on the data at hand, we assume that the unemployment rate might have a positive impact on bottom-tier housing value, and the median age of a county will also influence the Top tier housing value of this area. Nevertheless, the previous years' and months' housing values are still the most important features for future value prediction. We need to run both datasets to approve these assumptions.
--	Apart from housing value prediction, we also want to see the overall trend of the Real Estate market all over the country. We have a sister project using another model to predict the next jewel of the real estate market for living and investment purposes.
--	For that project, ["Forecasting Home Prices in Sacramento County California"](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) click on link.
+-	Apart from housing value prediction, we also want to see the overall trend of the Real Estate market all over the country. We have a sister project using another model to predict the next jewel of the real estate market for living and investment purposes called Forecasting Home Prices in SAcramento County CA. For that project see link below in Links section.
+
+
+## Links
+
+- For Google docs on this project, [Housing Value Prediction with Random Forest Regressor](https://docs.google.com/presentation/d/1PZqFXkw5fcxUvvVw5MuVrqotDwdwdUKxdH8l32x_qBI/edit#slide=id.g146afed815f_1_1958) click here.
+
+- For our sister project, [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) click on link.
+
+- Our interactive [July 2021 Dashboard on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link) can be found in here.
+
+- [Four additional visualizations and four insights from the housing data can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes) here.
 
 [To top of page](#housing-value-prediction-with-random-forest-regressor)
 
