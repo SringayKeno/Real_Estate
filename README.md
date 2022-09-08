@@ -134,10 +134,16 @@ What external factors influence the housing value most apart from the conditions
 	 
 	 2843 samples, 80% training sets, and 20% test sets.
 
-### Model: Random Forest Regressor
-Different from the classifier models, our machine learning model needs to predict a precise housing value. Therefore, we chose Random Forest Regressor.
-We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
-We calculate the average error number and the error rate. For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is $10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
+### Model Selection: Random Forest Regressor
+
+##### Why we chose Random Forest Regressor?
+	- We first tried to build a Neural Network first but the accuracy rate was zero because our prediction was not binary.
+	- Different from the classifier models, our machine learning model needs to predict a precise home value. Therefore, we chose Random Forest 		Regressor.
+
+##### How to evaluate our prediction?
+	- We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
+	- We calculate the average error number and the error rate. 
+	- For example, if the mid-tier housing value of a county in July 2022 is $200,000 and our predicted price is $210,000, then the error is 	$10,000, and the error rate is $10,000/$200,000=0.05, which is a 5%  error. But here we are checking the average of all the differences.
 	
 ### Machine Learning Training:
         
