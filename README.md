@@ -208,7 +208,7 @@ and home values from January to June 2022: 0.62% error rate
 
 - Our interactive [July 2021 Dashboard on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link) can be found in here.
 
-- [Four additional visualizations and four insights from the housing data can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes) here.
+- [Four additional visualizations and four insights from the housing data](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes) can be found in Tableau here.
 
 [To top of page](#housing-value-prediction-with-random-forest-regressor)
 
