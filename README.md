@@ -133,7 +133,7 @@ What external factors influence the housing value most apart from the conditions
 
 ### Train & Test Data size:
 	 
-	 2843 samples, 80% training sets, and 20% test sets.
+2843 samples, 80% training sets, and 20% test sets.
 
 ### Model Selection: Random Forest Regressor
 
