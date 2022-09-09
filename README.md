@@ -138,7 +138,7 @@ What external factors influence the housing value most apart from the conditions
 ### Model Selection: Random Forest Regressor
 
 ##### Why we chose Random Forest Regressor?
-- We first tried to build a Neural Network first but the accuracy rate was zero because our prediction was not binary.
+- We tried to build a Neural Network at first but the accuracy rate was zero because our prediction was not binary.
 - Different from the classifier models, our machine learning model needs to predict a precise home value. Therefore, we chose Random Forest 		Regressor.
 
 ##### How to evaluate our prediction?
@@ -182,10 +182,6 @@ error rate
 d. 9 monthly-home-value features: July home values from 2017, 2020, 2021 
 and home values from January to June 2022: 0.62% error rate
 
-- Results:
-- We reduced the average error from $10114 to $1475 and the error rate from
-4.25% to 0.62%,
--We reduced 85% of the average error. (1-(4.25%-0.62%)/4.25%)
 
 
   <img src="https://user-images.githubusercontent.com/102890151/188792033-ea319e9b-117b-4026-8077-65cf82ce67ae.png"  width="700" height="400">
@@ -193,7 +189,7 @@ and home values from January to June 2022: 0.62% error rate
 
 ### Results:
 -	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
--	We reduced 85% of the average error.
+-	We reduced 85% of the average error (1-(4.25%-0.62%)/4.25%).
 
 ##  Analysis Summary:
 -	The previous month's housing values are the most informative references to look at when we are predicting the next month's value.
