@@ -17,6 +17,7 @@
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
 * [Data Visualizations](#data-visualizations) 
+   * [Housing values, housing inventory, and population in July 2021](#housing-values-housing-inventory-and-population-in-july-20210
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
