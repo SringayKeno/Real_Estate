@@ -205,7 +205,7 @@ and home values from January to June 2022: 0.62% error rate
 
 ## Links
 
-- For Google docs on this project, [Housing Value Prediction with Random Forest Regressor](https://docs.google.com/presentation/d/1PZqFXkw5fcxUvvVw5MuVrqotDwdwdUKxdH8l32x_qBI/edit#slide=id.g146afed815f_1_1958) click here.
+- For the Google slides of this project, [Housing Value Prediction with Random Forest Regressor](https://docs.google.com/presentation/d/1PZqFXkw5fcxUvvVw5MuVrqotDwdwdUKxdH8l32x_qBI/edit#slide=id.g146afed815f_1_1958) click here.
 
 - For our sister project, [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) click on link.
 
