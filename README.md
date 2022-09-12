@@ -93,16 +93,19 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 #### Miles Matter
 Below showing counties surrounding the Great Austin TX metro area. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in 
 
-<img width="691" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189575102-a41854c3-8847-4c6d-a28b-3cc7d022e707.png">
+<img width="635" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189777460-cc897456-b724-45f2-8fc5-7ec317943aaa.png">
 
 
-<img width="657" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189573611-aafe6cd7-7cfb-4126-8c43-879fa0403b63.png">
 
-<img width="694" alt="Screenshot (505)" src="https://user-images.githubusercontent.com/102890151/189573617-452a3915-5c14-4a5a-8f96-7dfc9af553c5.png">
+<img width="428" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189776616-b0eaf9dc-2042-4b12-afc4-66bc3b29c83f.png"><img width="402" alt="Screenshot (355)" src="https://user-images.githubusercontent.com/102890151/189776640-5219fecd-07b1-4117-8963-3637d118013b.png">
 
-<img width="671" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189573642-dd570aa0-3f05-4798-b438-087ade693278.png">
 
-<img width="684" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189573651-f5474188-5afc-4f2d-9fbc-ee8c12d8ade2.png">
+
+<img width="537" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189778100-c11f36ee-7e39-4def-8b37-36112a1eb245.png">
+
+
+
+<img width="534" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189573651-f5474188-5afc-4f2d-9fbc-ee8c12d8ade2.png">
 
 
 ### Four additional visualizations and four insights from the housing data
