@@ -16,7 +16,7 @@
    * [Questions we hope to answer with the data](#questions-we-hope-to-answer-with-the-data) 
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
-* [Data Visualizations](#data-visualizations) 
+* [A Look at Average Home Values in July 2022 by US County Through Visualizations](#a-look-at-average-home-values-in-july-2022-by-us-county-through-visualizations) 
    * [A Look at Average Home Values in July 2022 by US County](#a-look-at-average-home-values-in-july-2022-by-us-county)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
@@ -79,7 +79,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 * Project status meetings nightly at 5pm and or 7pm weekdays. 10am on Saturdays
 
 
-##  Data Visualizations; A Look at Average Home Values in July 2022 by US County
+## A Look at Average Home Values in July 2022 by US County Through Visualizations
 
 ### Tableau was used to visualize and explore July 2022 housing values and inventory by US county.
 
