@@ -17,7 +17,7 @@
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
 * [Data Visualizations](#data-visualizations) 
-   * [Housing values, housing inventory, and population in July 2021](#housing-values-housing-inventory-and-population-in-july-2021)
+   * [A Look at the Avg House Values in July 2022 by County](#a-look-at-the-avg-house-values-in-july-2022-by-county)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
@@ -81,13 +81,13 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 ##  Data Visualizations
 
-### Housing values, housing inventory, and population in July 2021
+### A Look at the Avg House Values in July 2022 by County
 
-Tableau was used to visualize and explore housing values, housing inventory, and population in July 2021. 
-This interactive visual [July 2021 Dashboard is here on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link) can be found in link.
+Tableau was used to visualize and explore housing values and inventory in July 2021. 
+These visuaizations (several of them which are interactive) can be [found here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m) can be found in link.
 
 
-<img src="https://user-images.githubusercontent.com/103475613/188294704-542efc6e-6e7c-42da-bea2-606e9f085c28.png"  width="550" height="275">
+
 
 ### Four additional visualizations and four insights from the housing data
 
