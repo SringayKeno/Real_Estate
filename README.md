@@ -16,7 +16,7 @@
    * [Questions we hope to answer with the data](#questions-we-hope-to-answer-with-the-data) 
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
-* [Data Visualizations](#data-visualizations) 
+* [Data Visualizations](#data-visualizations-;-a-look-at-average-home-values-in-july-2022-by-us-county) 
    * [A Look at Average Home Values in July 2022 by US County](#a-look-at-average-home-values-in-july-2022-by-us-county)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
