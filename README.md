@@ -83,7 +83,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 ### A Look at the Avg House Values in July 2022 by County
 
-Tableau was used to visualize and explore housing values and inventory in July 2021. 
+Tableau was used to visualize and explore housing values and inventory in July 2022. 
 These visuaizations (several of them which are interactive) can be [found here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m) can be found in link.
 
 
