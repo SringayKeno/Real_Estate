@@ -17,7 +17,7 @@
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
 * [Data Visualizations](#data-visualizations) 
-   * [A Look at the Avg House Values in July 2022 by County](#a-look-at-the-avg-house-values-in-july-2022-by-county)
+   * [A Look at Average Home Values in July 2022 by US County](#a-look-at-average-home-values-in-july-2022-by-us-county)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
@@ -81,12 +81,21 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 ##  Data Visualizations
 
-### A Look at the Avg House Values in July 2022 by County
+### A Look at Average Home Values in July 2022 by US County
 
 Tableau was used to visualize and explore housing values and inventory in July 2022. 
-These visuaizations (several of them which are interactive) can be [found here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m) can be found in link.
+These visuaizations (several of them which are interactive) can be [found here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m).
 
+<img width="486" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189573545-89ff4256-7cbb-4615-b654-f29c1b5cd934.png">
 
+<img width="791" alt="Screenshot (511)" src="https://user-images.githubusercontent.com/102890151/189573595-23a90776-d648-4bba-baf4-034e0e552cd4.png">
+<img width="757" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189573611-aafe6cd7-7cfb-4126-8c43-879fa0403b63.png">
+
+<img width="794" alt="Screenshot (505)" src="https://user-images.githubusercontent.com/102890151/189573617-452a3915-5c14-4a5a-8f96-7dfc9af553c5.png">
+
+<img width="771" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189573642-dd570aa0-3f05-4798-b438-087ade693278.png">
+
+<img width="684" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189573651-f5474188-5afc-4f2d-9fbc-ee8c12d8ade2.png">
 
 
 ### Four additional visualizations and four insights from the housing data
@@ -209,7 +218,7 @@ and home values from January to June 2022: 0.62% error rate
 
 - For our sister project, [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) click on link.
 
-- Our interactive [July 2021 Dashboard on Tableau Public](https://public.tableau.com/shared/T7F4NTRTK?:display_count=n&:origin=viz_share_link) can be found in here.
+- A Look at [Average Homes Values in July 2022 by US County](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m) can be found in here.
 
 - [Four additional visualizations and four insights from the housing data](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes) can be found in Tableau here.
 
