@@ -79,21 +79,28 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 * Project status meetings nightly at 5pm and or 7pm weekdays. 10am on Saturdays
 
 
-##  Data Visualizations
+##  Data Visualizations; A Look at Average Home Values in July 2022 by US County
 
-### A Look at Average Home Values in July 2022 by US County
+### Tableau was used to visualize and explore July 2022 housing values and inventory by US county.
 
-Tableau was used to visualize and explore housing values and inventory in July 2022. 
-These visuaizations (several of them which are interactive) can be [found here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m).
+<br/>
 
-<img width="486" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189573545-89ff4256-7cbb-4615-b654-f29c1b5cd934.png">
+<img width="679" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189574373-54f8f699-3bb7-4f14-8a48-1d5eae3805b8.png">
 
-<img width="791" alt="Screenshot (511)" src="https://user-images.githubusercontent.com/102890151/189573595-23a90776-d648-4bba-baf4-034e0e552cd4.png">
-<img width="757" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189573611-aafe6cd7-7cfb-4126-8c43-879fa0403b63.png">
 
-<img width="794" alt="Screenshot (505)" src="https://user-images.githubusercontent.com/102890151/189573617-452a3915-5c14-4a5a-8f96-7dfc9af553c5.png">
+(above) Map showing housing units as well as the July 2022 average home value by county in the US. This map, as well as several others that look at July 2022 home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m).
 
-<img width="771" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189573642-dd570aa0-3f05-4798-b438-087ade693278.png">
+#### Miles Matter
+Below showing counties surrounding the Great Austin TX metro area. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in 
+
+<img width="691" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189575102-a41854c3-8847-4c6d-a28b-3cc7d022e707.png">
+
+
+<img width="657" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189573611-aafe6cd7-7cfb-4126-8c43-879fa0403b63.png">
+
+<img width="694" alt="Screenshot (505)" src="https://user-images.githubusercontent.com/102890151/189573617-452a3915-5c14-4a5a-8f96-7dfc9af553c5.png">
+
+<img width="671" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189573642-dd570aa0-3f05-4798-b438-087ade693278.png">
 
 <img width="684" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189573651-f5474188-5afc-4f2d-9fbc-ee8c12d8ade2.png">
 
@@ -148,7 +155,7 @@ What external factors influence the housing value most apart from the conditions
 
 ##### Why we chose Random Forest Regressor?
 - We tried to build a Neural Network at first but the accuracy rate was zero because our prediction was not binary.
-- Different from the classifier models, our machine learning model needs to predict a precise home value. Therefore, we chose Random Forest 		Regressor.
+- Different from the classifier models, our machine learning model needs to predict a precise home value. Therefore, we chose Random Forest Regressor.
 
 ##### How to evaluate our prediction?
 - We used mean absolute error to get the mean of all the differences between all the predicted values and actual values.
