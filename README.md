@@ -105,7 +105,7 @@ The counties (below) on the left are counties whose average July home price was 
 
 
 
-(below left) A 1,078 square foot home currently for sale in Nantucket County Massachusetts. The home is listed for priced at $1,995,000 which is just below the average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US. (below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826.
+(below left) A 1,078 square foot home currently for listed sale (July 2022) in Nantucket County Massachusetts. The home is listed for $1,995,000, which is just below the average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US. (below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826.
 	
 <img src="https://user-images.githubusercontent.com/102890151/189938166-5435555a-bc78-4370-8f77-97c16f5d9717.jpg" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189944347-ae3156a9-201c-4de2-9bf4-eb0fecf9d11e.jpg" width=40% height=40%>
 
