@@ -17,7 +17,7 @@
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
 * [A Look at Average Home Values in July 2022 by US County Through Visualizations](#a-look-at-average-home-values-in-july-2022-by-us-county-through-visualizations) 
-   * [A Look at Average Home Values in July 2022 by US County](#a-look-at-average-home-values-in-july-2022-by-us-county)
+   * [6 visualizations for July 2022](#6-visualizations-for-july-2022)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
@@ -85,27 +85,38 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 <br/>
 
+#### The Costly Coasts
+
+US counties where the average July 2022 home values are highest (shown as dark red on map) tend to be congregated along the US coasts. Those counties tend to be in the US Northeast and in California in the West. The state of Colorado ha a few counties as well in this category. This map, as well as several others that look at July 2022 home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes).
+
 <img width="679" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189574373-54f8f699-3bb7-4f14-8a48-1d5eae3805b8.png">
 
 
-(above) Map showing housing units as well as the July 2022 average home value by county in the US. This map, as well as several others that look at July 2022 home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes).
-
 #### Miles Matter
-Below showing counties surrounding the Great Austin TX metro area. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in 
 
-<img width="635" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189777460-cc897456-b724-45f2-8fc5-7ec317943aaa.png">
+The map below shows the region arounf Austn Texas. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price dros to 260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the 250k-350k range. This map link the one above is interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your art of the country.
+
+<img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
+
+#### The 1 million $ Club
+
+The counties (below) on the left are counties whose average July home price was about 1 million. California had the most counties. Other states were Florida, Colorado, Massauchusetts, New York , Hawaii, Wyomming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above 1 million. One the right are 8 more counties whose average July home values are between $900,000 and 1 million. THey may soon be joining those counties on the left.
+
+<img width="423" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189780731-be60bcb1-0b7d-4e86-aad9-6f10803c573f.png"><img width="400" alt="Screenshot (405)" src="https://user-images.githubusercontent.com/102890151/189780736-39eefa62-272b-454b-a1f8-5fea54dc9ea6.png">
+
+#### Counties below 60,000 in average July home value
+
+This visual (below) shown all the states and the number of counties where the average home values ae below $60,000. Arkansas, Ilinois and Oklahoma had the most, followed by Kansas, Kentucky and Texas. Virginia which has one county in the million dollar club above also had several counties in this illustration.
+
+<img width="530" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189780778-ab83263e-4424-41e1-888b-0f8f99cce793.png">
+
+#### Not the Million Dollar Club, not even close
+
+Finally a map (below) showing a collection of counties whose average home value iss below $60,000. These counties tended to be along the Mississippi River in Arkansas, along the Red River in Oklahoma, and in EAstern Kentucky.
+
+<img width="584" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189780784-dae05bda-cfd6-442e-a87e-ee92a2815cae.png">
 
 
-
-<img width="428" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189776616-b0eaf9dc-2042-4b12-afc4-66bc3b29c83f.png"><img width="402" alt="Screenshot (355)" src="https://user-images.githubusercontent.com/102890151/189776640-5219fecd-07b1-4117-8963-3637d118013b.png">
-
-
-
-<img width="537" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189778100-c11f36ee-7e39-4def-8b37-36112a1eb245.png">
-
-
-
-<img width="534" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189573651-f5474188-5afc-4f2d-9fbc-ee8c12d8ade2.png">
 
 
 ### Four additional visualizations and four insights from the housing data
@@ -113,7 +124,7 @@ Below showing counties surrounding the Great Austin TX metro area. Home prices a
 
 [These additional visualizations can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
-<img width="550" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
+<img width="600" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
 
 [Back to top of page](#housing-value-prediction-with-random-forest-regressor)
 
