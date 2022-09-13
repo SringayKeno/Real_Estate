@@ -103,6 +103,10 @@ The counties (below) on the left are counties whose average July home price was 
 
 <img width="423" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189780731-be60bcb1-0b7d-4e86-aad9-6f10803c573f.png"><img width="400" alt="Screenshot (405)" src="https://user-images.githubusercontent.com/102890151/189780736-39eefa62-272b-454b-a1f8-5fea54dc9ea6.png">
 
+
+Nantucket County Massachusetts whose average July 2022 home price was $2,040,000 was the highest in the US. What does a $2 million dollar home looks like in Nantucket? It looks like this 2,200 square foot home (below)
+<img src="https://user-images.githubusercontent.com/102890151/189917591-81d8e723-5edc-4fd4-ba95-7498691f6845.jpg" width=50% height=50%>
+
 #### Counties below $90,000 in Average July Home Values
 
 This visual (below) shown all the states and the number of counties where the average home values ae below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia which has one county in the million-dollar club above also had several counties in this illustration.
