@@ -101,11 +101,11 @@ The map below shows the region around Austin Texas. Home prices are just over $6
 
 The counties (below) on the left are counties whose average July home price was above $1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above $1 million. One the right are 8 more counties whose average July home values are between $900,000 and $1 million. They may soon be joining those counties on the left.
 
-<img width="423" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189780731-be60bcb1-0b7d-4e86-aad9-6f10803c573f.png"><img width="400" alt="Screenshot (405)" src="https://user-images.githubusercontent.com/102890151/189780736-39eefa62-272b-454b-a1f8-5fea54dc9ea6.png">
+<img width="423" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189780731-be60bcb1-0b7d-4e86-aad9-6f10803c573f.png"><img width="400" alt="Screenshot src="https://user-images.githubusercontent.com/102890151/189943447-0836b6bc-65e6-4dcd-8f5b-0195db5100b3.jpg")
 
-(below) A 1,078 square foot home priced at $1,995,000 in Nantucket County Massachusetts. That price is just below the average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US.
-<img src="https://user-images.githubusercontent.com/102890151/189938166-5435555a-bc78-4370-8f77-97c16f5d9717.jpg" width=50% height=50%><img src="https://user-images.githubusercontent.com/102890151/189942282-256567a8-6991-4f1d-bac4-d19d447451bb.jpg" width=50% height=45%>
 
+(below left) A 1,078 square foot home currently for sale in Nantucket County Massachusetts. The home is listed for priced at $1,995,000 which is just below the average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US. (below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826.
+<img src="https://user-images.githubusercontent.com/102890151/189938166-5435555a-bc78-4370-8f77-97c16f5d9717.jpg" width=50% height=50%><img src="https://user-images.githubusercontent.com/102890151/189944347-ae3156a9-201c-4de2-9bf4-eb0fecf9d11e.jpg" width=50% height=40%>
 
 
 #### Counties below $90,000 in Average July Home Values
