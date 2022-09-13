@@ -80,7 +80,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 ## A Look at Average Home Values in July 2022 by US County Through Visualizations
 
-### Tableau was used to visualize and explore July 2022 housing values and inventory by US county.
+### Tableau was used to visualize and explore July 2022 housing values and inventory by US county
 
 <br/>
 
@@ -101,7 +101,7 @@ The map below shows the region around Austin Texas. Home prices are just over $6
 
 The counties (below) on the left are counties whose average July home price was above $1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above $1 million. One the right are 8 more counties whose average July home values are between $900,000 and $1 million. They may soon be joining those counties on the left.
 
-<img src="https://user-images.githubusercontent.com/102890151/189946397-986567bc-6e51-4930-b57d-886bf38aad66.png" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189946412-79d564be-0af2-49f7-b94b-b4045fd7209e.png" width=40% height=40%><img src="" width=40% height=40%>
+<img src="https://user-images.githubusercontent.com/102890151/189946397-986567bc-6e51-4930-b57d-886bf38aad66.png" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189946412-79d564be-0af2-49f7-b94b-b4045fd7209e.png" width=40% height=40%><
 
 
 
