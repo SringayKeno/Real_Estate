@@ -103,9 +103,9 @@ The counties (below) on the left are counties whose average July home price was 
 
 <img width="423" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189780731-be60bcb1-0b7d-4e86-aad9-6f10803c573f.png"><img width="400" alt="Screenshot (405)" src="https://user-images.githubusercontent.com/102890151/189780736-39eefa62-272b-454b-a1f8-5fea54dc9ea6.png">
 
+(below) A 1,078 square foot home priced at $1,995,000 in Nantucket County Massachusetts. That price is just below the average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US.
+<img src="https://user-images.githubusercontent.com/102890151/189938166-5435555a-bc78-4370-8f77-97c16f5d9717.jpg" width=50% height=50%><img src="https://user-images.githubusercontent.com/102890151/189942282-256567a8-6991-4f1d-bac4-d19d447451bb.jpg" width=50% height=45%>
 
-Nantucket County Massachusetts whose average July 2022 home price of $2,040,000 was the highest in the US. What does a $2 million dollar home look like in Nantucket? It looks about like this 1,078 square foot home (below) priced at $1,995,000.
-<img src="https://user-images.githubusercontent.com/102890151/189927091-865ddd3d-98e9-4659-9ce6-b2d1167caf55.jpg" width=45% height=50%>
 
 
 #### Counties below $90,000 in Average July Home Values
@@ -128,7 +128,7 @@ Lastly, a map (below) showing a collection of counties whose average home value 
 
 [These additional visualizations can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
-<img width="670" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
+<img width="720" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
 
 [Back to top of page](#housing-value-prediction-with-random-forest-regressor)
 
