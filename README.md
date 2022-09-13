@@ -88,7 +88,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 <img width="679" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189574373-54f8f699-3bb7-4f14-8a48-1d5eae3805b8.png">
 
 
-(above) Map showing housing units as well as the July 2022 average home value by county in the US. This map, as well as several others that look at July 2022 home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m).
+(above) Map showing housing units as well as the July 2022 average home value by county in the US. This map, as well as several others that look at July 2022 home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes).
 
 #### Miles Matter
 Below showing counties surrounding the Great Austin TX metro area. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in 
@@ -230,6 +230,6 @@ and home values from January to June 2022: 0.62% error rate
 
 - A Look at [Average Homes Values in July 2022 by US County](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m) can be found in here.
 
-- [Four additional visualizations and four insights from the housing data](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes) can be found in Tableau here.
+- [Four additional visualizations and four insights from the housing data](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes) can be found in Tableau here.
 
 [To top of page](#housing-value-prediction-with-random-forest-regressor)
