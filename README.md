@@ -101,15 +101,15 @@ The map below shows the region around Austin Texas. Mid-tier Home prices are jus
 
 #### Million Dollar Counties
 
-The counties (below) on the left are counties whose mid-tier average July home price were above $1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above $1 million. One the right are 8 more counties whose average July home values are between $900,000 and $1 million. They may soon be joining those counties on the left.
+The counties (below, left) are counties whose mid-tier average July home prices were above $1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York, Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average home value was also above $1 million. On the right are 8 more counties whose average July home values were between $900,000 and $1 million. They may soon be joining those counties on the left.
 
-<img src="https://user-images.githubusercontent.com/102890151/189946397-986567bc-6e51-4930-b57d-886bf38aad66.png" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189946412-79d564be-0af2-49f7-b94b-b4045fd7209e.png" width=35% height=35%><
+<img src="https://user-images.githubusercontent.com/102890151/189946397-986567bc-6e51-4930-b57d-886bf38aad66.png" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189946412-79d564be-0af2-49f7-b94b-b4045fd7209e.png" width=35% height=35%>
 
 
 
-(below left) A 1,078 square foot home currently listed for sale (July 2022) in Nantucket County Massachusetts. The home is listed for $1,995,000, which is just below the mid-tier average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US for mid-tier homes. $2 million dollars may not sound mid-tier, but a quick glance at homes for sale on the island of Nantucket shows dozens of homes in the $4-8 million dollar range. 
+(below left) A 1,078 square foot home that was listed for sale (in July of 2022) in Nantucket County Massachusetts. The home listed for $1,995,000, which is just below the mid-tier average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US for mid-tier homes. $2 million dollars may not sound mid-tier, but a quick glance at homes for sale on the island of Nantucket shows dozens of homes in the $4-8 million dollar range. 
 
-(below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826 for mid-tier house value.
+(below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826 for the mid-tier house range.
 	
 <img src="https://user-images.githubusercontent.com/102890151/189938166-5435555a-bc78-4370-8f77-97c16f5d9717.jpg" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189944347-ae3156a9-201c-4de2-9bf4-eb0fecf9d11e.jpg" width=40% height=40%>
 
@@ -117,7 +117,7 @@ The counties (below) on the left are counties whose mid-tier average July home p
 
 #### Counties below $90,000 in Average July Home Values (mid-tier)
 
-This visual (below) shown all the states and the number of counties where the average home values ae below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia which has one county in the million-dollar club above also had several counties in this illustration.
+This visual (below) shown all the states and the number of counties where the mid-tier average home values are below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia which has one county in the million-dollar range also had several counties in this illustration.
 
 <img width="530" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189780778-ab83263e-4424-41e1-888b-0f8f99cce793.png">
 
