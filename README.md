@@ -123,7 +123,7 @@ Lastly, a map (below) showing a collection of counties whose average home value 
 
 [These additional visualizations can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
-<img width="600" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
+<img width="670" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
 
 [Back to top of page](#housing-value-prediction-with-random-forest-regressor)
 
