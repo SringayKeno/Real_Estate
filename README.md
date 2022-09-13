@@ -17,7 +17,7 @@
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
 * [A Look at Average Home Values in July 2022 by US County Through Visualizations](#a-look-at-average-home-values-in-july-2022-by-us-county-through-visualizations) 
-   * [6 visualizations for July 2022](#6-visualizations-for-july-2022)
+   * [The Costly Coasts](#the-costly-coasts)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
 * [Data Analysis](#data-analysis)   
@@ -104,15 +104,15 @@ The counties (below) on the left are counties whose average July home price was 
 
 <img width="423" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189780731-be60bcb1-0b7d-4e86-aad9-6f10803c573f.png"><img width="400" alt="Screenshot (405)" src="https://user-images.githubusercontent.com/102890151/189780736-39eefa62-272b-454b-a1f8-5fea54dc9ea6.png">
 
-#### Counties below 60,000 in average July home value
+#### Counties below 90,000 in Average July Home Values
 
-This visual (below) shown all the states and the number of counties where the average home values ae below $60,000. Arkansas, Ilinois and Oklahoma had the most, followed by Kansas, Kentucky and Texas. Virginia which has one county in the million dollar club above also had several counties in this illustration.
+This visual (below) shown all the states and the number of counties where the average home values ae below $90,000. Arkansas, Ilinois and Oklahoma had the most, followed by Kansas, Kentucky and Texas. Virginia which has one county in the million dollar club above also had several counties in this illustration.
 
 <img width="530" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189780778-ab83263e-4424-41e1-888b-0f8f99cce793.png">
 
-#### Not the Million Dollar Club, not even close
+#### It Doesn't Get Any Cheaper Than This...Unless You Move in with Your Parents
 
-Finally a map (below) showing a collection of counties whose average home value iss below $60,000. These counties tended to be along the Mississippi River in Arkansas, along the Red River in Oklahoma, and in EAstern Kentucky.
+Lastly, a map (below) showing a collection of counties whose average home value is below $60,000. These counties tended to be along the Mississippi River in Arkansas, along the Red River in Oklahoma, and in mountains of Eastern Kentucky.
 
 <img width="584" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189780784-dae05bda-cfd6-442e-a87e-ee92a2815cae.png">
 
