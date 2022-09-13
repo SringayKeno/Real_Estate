@@ -86,14 +86,14 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 #### The Costly Coasts
 
-US counties where the average July 2022 mid-tier home values were highest (shown as dark red on map) tended to be congregated along the US coasts. Those counties were mostly located in the US Northeast and in California. The state of Colorado had a few counties as well in this category. This map, as well as several others that look at July 2022 average home prices in the mid-tier range can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your county!
+US counties where the average July 2022 mid-tier home values were highest (shown as dark red on map) tended to be congregated along the US coasts. Those counties were mostly located in the US Northeast and in California. The state of Colorado had a few counties as well in this category. This map, as well as several others that look at July 2022 average home prices in the mid-tier range can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatAverageHomeValuesintheMid-TierRange35-65percentilebyUSCountyforJuly2022/USCountyAvgHomeValuesandUnitsJuly2022mid-tier?publish=yes). Check out your county!
 
 <img width="679" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189574373-54f8f699-3bb7-4f14-8a48-1d5eae3805b8.png">
 
 
 #### Miles Matter
 
-The map below shows the region around Austin Texas. Mid-tier Home prices are just over $630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to $260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your part of the country.
+The map below shows the region around Austin Texas. Mid-tier Home prices are just over $630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to $260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatAverageHomeValuesintheMid-TierRange35-65percentilebyUSCountyforJuly2022/USCountyAvgHomeValuesandUnitsJuly2022mid-tier?publish=yes).
 
 <img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
 
@@ -253,7 +253,7 @@ and home values from January to June 2022: 0.62% error rate
 
 - For our sister project, [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) click on link.
 
-- A Look at [Average Homes Values in July 2022 by US County](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes) can be found in here.
+- A Look at [Average Homes Values in the Mid-Tier Range by US County for July 2022](https://public.tableau.com/app/profile/ryan3085/viz/ALookatAverageHomeValuesintheMid-TierRange35-65percentilebyUSCountyforJuly2022/USCountyAvgHomeValuesandUnitsJuly2022mid-tier?publish=yes) can be found in here.
 
 - [Four additional visualizations and four insights from the housing data](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes) can be found in Tableau here.
 
