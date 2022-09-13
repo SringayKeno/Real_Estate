@@ -228,8 +228,8 @@ and home values from January to June 2022: 0.62% error rate
 
 - For our sister project, [Forecasting Home Prices in Sacramento County California](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) click on link.
 
-- A Look at [Average Homes Values in July 2022 by US County](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/July2022USCountieswithAvgHomeValues1m) can be found in here.
+- A Look at [Average Homes Values in July 2022 by US County](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes) can be found in here.
 
-- [Four additional visualizations and four insights from the housing data](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes) can be found in Tableau here.
+- [Four additional visualizations and four insights from the housing data](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes) can be found in Tableau here.
 
 [To top of page](#housing-value-prediction-with-random-forest-regressor)
