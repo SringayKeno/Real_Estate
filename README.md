@@ -97,11 +97,13 @@ The map below shows the region around Austin Texas. Home prices are just over $6
 
 <img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
 
+<br/>
+
 #### Million Dollar Counties
 
 The counties (below) on the left are counties whose average July home price was above $1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above $1 million. One the right are 8 more counties whose average July home values are between $900,000 and $1 million. They may soon be joining those counties on the left.
 
-<img src="https://user-images.githubusercontent.com/102890151/189946397-986567bc-6e51-4930-b57d-886bf38aad66.png" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189946412-79d564be-0af2-49f7-b94b-b4045fd7209e.png" width=30% height=30%><
+<img src="https://user-images.githubusercontent.com/102890151/189946397-986567bc-6e51-4930-b57d-886bf38aad66.png" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189946412-79d564be-0af2-49f7-b94b-b4045fd7209e.png" width=35% height=35%><
 
 
 
@@ -109,12 +111,16 @@ The counties (below) on the left are counties whose average July home price was 
 	
 <img src="https://user-images.githubusercontent.com/102890151/189938166-5435555a-bc78-4370-8f77-97c16f5d9717.jpg" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189944347-ae3156a9-201c-4de2-9bf4-eb0fecf9d11e.jpg" width=40% height=40%>
 
+<br/>
 
 #### Counties below $90,000 in Average July Home Values
 
 This visual (below) shown all the states and the number of counties where the average home values ae below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia which has one county in the million-dollar club above also had several counties in this illustration.
 
 <img width="530" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189780778-ab83263e-4424-41e1-888b-0f8f99cce793.png">
+
+
+<br/>
 
 #### Counties below $60,000 in Average July Home Values
 
