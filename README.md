@@ -31,19 +31,18 @@
 ##  Project Overview
 #### Project Description
 
-The goal of this project is to explore housing values and inventory in the United States. We primarily relied on data from Zillow, with additional data sources to add context and variables which we used to enhance the analysis. We explored low/mid/high tier housing values, but focused on mid-tier housing. We focused on the months of July 2021 and July 2022. We looked at different geographical categorizations and compared data at the County, Metropolitan Area, and State level. The ultimate outcome was a prediction of July 2022 housing values for mid-tier housing grouped by state using Random Forest Regressor supervised learning algorithm and the discovery of what external factors influence the housing value.
+The goal of this project is to explore housing values and inventory in the United States. We primarily relied on data from Zillow, with additional data sources to add context and variables which we used to enhance the analysis. We explored low/mid/high tier housing values but focused on mid-tier housing. We focused on the months of July 2021 and July 2022. We looked at different geographical categorizations and compared data at the County, Metropolitan Area, and State level. The ultimate outcome was a prediction of July 2022 housing values for mid-tier housing grouped by state using Random Forest Regressor supervised learning algorithm and the discovery of what external factors influence the housing value.
 
 Our sister project, ["Forecasting Home Prices in Sacramento County California"](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county) can also be found here in Github.
 
 
 #### Why we selected this project
 
-Real estate is a big deal! Anyone who has had to pay for the privelage of a roof over their head knows that paying rent or, if you are lucky enough to own, paying a mortgage is a major financial investment. When 35% (at least) of your income is going into your home - you want to make sure that you are choosing to live in a place where your dollar feels like an investment and not a waste. 
+Real estate is a big deal! Anyone who has had to pay for the privilege of a roof over their head knows that paying rent or, if you are lucky enough to own, paying a mortgage is a major financial investment. When 35% (at least) of your income is going into your home - you want to make sure that you are choosing to live in a place where your dollar feels like an investment and not a waste. 
 
 When looking at potential projects, our group wanted to explore this further. The financial burden associated with buying a house is a major commitment. Our group came together with the shared goal of using existing data to explore which regions have housing and how the value of that housing stock will change in the foreseeable future. Our hope was to build a tool and visualizations that would help potential buyers make an informed decision when deciding where to buy. 
 
-Real Estate has always been a popular topic, and people have paid more attention to housing since Covid-19 exploded and remote jobs became pervasive. When home is where the work is, and the wave of millennials reaching home-buying age (census), we've seen tremendous price growth in many areas in the past two years. How many 
-people in the Bay Area gained an extra million dollars from their houses for the markup of the prices? And where would people go to get their dreamed homes and leave behind Silicon Valley and its ridiculous housing price? We are curious about the housing market during this particular time and wonder what the future holds.
+Real Estate has always been a popular topic, and people have paid more attention to housing since Covid-19 exploded and remote jobs became pervasive. When home is where the work is, and the wave of millennials reaching home-buying age (census), we've seen tremendous price growth in many areas in the past two years. How many people in the Bay Area gained an extra million dollars from their houses for the markup of the prices. And where would people go to get their dreamed homes and leave behind Silicon Valley and its ridiculous housing price? We are curious about the housing market during this time and wonder what the future holds.
 
 In addition to a shared interest, we were also intrigued by the wide range of data that was readily available for our analysis. We knew that with the large amount of quality data available, we would be able to explore this topic fully and answer some hard questions using data analytics!
 
@@ -94,19 +93,19 @@ US counties where the average July 2022 home values are highest (shown as dark r
 
 #### Miles Matter
 
-The map below shows the region arounf Austn Texas. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price dros to 260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the 250k-350k range. This map link the one above is interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your art of the country.
+The map below shows the region around Austin Texas. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to 260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your art of the country.
 
 <img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
 
 #### The 1 million $ Club
 
-The counties (below) on the left are counties whose average July home price was about 1 million. California had the most counties. Other states were Florida, Colorado, Massauchusetts, New York , Hawaii, Wyomming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above 1 million. One the right are 8 more counties whose average July home values are between $900,000 and 1 million. THey may soon be joining those counties on the left.
+The counties (below) on the left are counties whose average July home price was about 1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above 1 million. One the right are 8 more counties whose average July home values are between $900,000 and 1 million. They may soon be joining those counties on the left.
 
 <img width="423" alt="Screenshot (508)" src="https://user-images.githubusercontent.com/102890151/189780731-be60bcb1-0b7d-4e86-aad9-6f10803c573f.png"><img width="400" alt="Screenshot (405)" src="https://user-images.githubusercontent.com/102890151/189780736-39eefa62-272b-454b-a1f8-5fea54dc9ea6.png">
 
 #### Counties below 90,000 in Average July Home Values
 
-This visual (below) shown all the states and the number of counties where the average home values ae below $90,000. Arkansas, Ilinois and Oklahoma had the most, followed by Kansas, Kentucky and Texas. Virginia which has one county in the million dollar club above also had several counties in this illustration.
+This visual (below) shown all the states and the number of counties where the average home values ae below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia which has one county in the million-dollar club above also had several counties in this illustration.
 
 <img width="530" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189780778-ab83263e-4424-41e1-888b-0f8f99cce793.png">
 
@@ -117,7 +116,7 @@ Lastly, a map (below) showing a collection of counties whose average home value 
 <img width="584" alt="Screenshot (507)" src="https://user-images.githubusercontent.com/102890151/189780784-dae05bda-cfd6-442e-a87e-ee92a2815cae.png">
 
 
-
+<br/>
 
 ### Four additional visualizations and four insights from the housing data
 
@@ -144,7 +143,7 @@ A conceptual diagram our future database.
 
 ##   Data Analysis
 
-What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value on a monthly basis view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
+What external factors influence the housing value most apart from the conditions like the lot size and bedroom/bathroom numbers of a house? With the Zillow housing value monthly view, we tried to predict the mid-tier housing value of July 2022 and compare our prediction with Zillow released data, using all kinds of data resources we could find online that were categorized by counties.
 
 
  * ###  X Features and y Target:
@@ -168,7 +167,7 @@ What external factors influence the housing value most apart from the conditions
 ### Model Selection: Random Forest Regressor
 
 ##### Why we chose Random Forest Regressor?
-- We tried to build a Neural Network at first but the accuracy rate was zero because our prediction was not binary.
+- We tried to build a Neural Network at first, but the accuracy rate was zero because our prediction was not binary.
 - Different from the classifier models, our machine learning model needs to predict a precise home value. Therefore, we chose Random Forest Regressor.
 
 ##### How to evaluate our prediction?
@@ -180,7 +179,7 @@ What external factors influence the housing value most apart from the conditions
         
   #### 1) The 1st Training: Using only July values from previous years to predict the July value of 2022
 	
-        $10144 average error;  4.25% error
+        $10144 average error; 4.25% error
  
 
   
