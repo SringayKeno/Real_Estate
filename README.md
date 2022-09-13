@@ -113,7 +113,7 @@ Below showing counties surrounding the Great Austin TX metro area. Home prices a
 
 [These additional visualizations can be found in Tableau here](https://public.tableau.com/app/profile/bibo.wang/viz/July2022Mid-tierHomeValues/Dashboard1?publish=yes)
 
-<img width="500" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
+<img width="550" alt="Dashboard 1" src="https://user-images.githubusercontent.com/102890151/188798705-feca43a9-aeea-4e35-bebc-a9ef3d4c0c3f.png">
 
 [Back to top of page](#housing-value-prediction-with-random-forest-regressor)
 
