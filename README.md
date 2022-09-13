@@ -78,22 +78,22 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 * Project status meetings nightly at 5pm and or 7pm weekdays. 10am on Saturdays
 
 
-## A Look at Average Home Values in July 2022 by US County Through Visualizations
+## A Look at Average Home Values in the Mid-Tier Range by US County Through Visualizations
 
-### Tableau was used to visualize and explore July 2022 housing values and inventory by US county
+### Tableau was used to visualize and explore July 2022 housing values and inventory in the mid-tier range ( 35th to 65th percentile) by US county
 
 <br/>
 
 #### The Costly Coasts
 
-US counties where the average July 2022 home values are highest (shown as dark red on map) tend to be congregated along the US coasts. Those counties tend to be in the US Northeast and in California in the West. The state of Colorado ha a few counties as well in this category. This map, as well as several others that look at July 2022 average home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your county!
+US counties where the average July 2022 mid-tier home values were highest (shown as dark red on map) tended to be congregated along the US coasts. Those counties were motlt located in the US Northeast and in California in the West. The state of Colorado had a few counties as well in this category. This map, as well as several others that look at July 2022 average home prices in the mid-tier range can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your county!
 
 <img width="679" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189574373-54f8f699-3bb7-4f14-8a48-1d5eae3805b8.png">
 
 
 #### Miles Matter
 
-The map below shows the region around Austin Texas. Home prices are just over $630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to $260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your part of the country.
+The map below shows the region around Austin Texas. Mid-tier Home prices are just over $630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to $260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your part of the country.
 
 <img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
 
@@ -101,19 +101,21 @@ The map below shows the region around Austin Texas. Home prices are just over $6
 
 #### Million Dollar Counties
 
-The counties (below) on the left are counties whose average July home price was above $1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above $1 million. One the right are 8 more counties whose average July home values are between $900,000 and $1 million. They may soon be joining those counties on the left.
+The counties (below) on the left are counties whose mid-tier average July home price were above $1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above $1 million. One the right are 8 more counties whose average July home values are between $900,000 and $1 million. They may soon be joining those counties on the left.
 
 <img src="https://user-images.githubusercontent.com/102890151/189946397-986567bc-6e51-4930-b57d-886bf38aad66.png" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189946412-79d564be-0af2-49f7-b94b-b4045fd7209e.png" width=35% height=35%><
 
 
 
-(below left) A 1,078 square foot home currently listed for sale (July 2022) in Nantucket County Massachusetts. The home is listed for $1,995,000, which is just below the average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US. (below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826.
+(below left) A 1,078 square foot home currently listed for sale (July 2022) in Nantucket County Massachusetts. The home is listed for $1,995,000, which is just below the mid-tier average home value for Nantucket County Massachusetts, whose July 2022 average home price was $2,040,000. The highest in the US for mid-tier homes. $2 million dollars may not sound mid-tier, but a quick glance at homes for sale on the island of Nantucket shows dozens of homes in the $4-8 million dollar range. 
+
+(below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826 for mid-tier house value.
 	
 <img src="https://user-images.githubusercontent.com/102890151/189938166-5435555a-bc78-4370-8f77-97c16f5d9717.jpg" width=40% height=40%><img src="https://user-images.githubusercontent.com/102890151/189944347-ae3156a9-201c-4de2-9bf4-eb0fecf9d11e.jpg" width=40% height=40%>
 
 <br/>
 
-#### Counties below $90,000 in Average July Home Values
+#### Counties below $90,000 in Average July Home Values (mid-tier)
 
 This visual (below) shown all the states and the number of counties where the average home values ae below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia which has one county in the million-dollar club above also had several counties in this illustration.
 
@@ -122,7 +124,7 @@ This visual (below) shown all the states and the number of counties where the av
 
 <br/>
 
-#### Counties below $60,000 in Average July Home Values
+#### Counties below $60,000 in Average July Home Values (mid-tier)
 
 Lastly, a map (below) showing a collection of counties whose average home value is below $60,000. These counties tended to be along the Mississippi River in Arkansas, along the Red River in Oklahoma, and in mountains of Eastern Kentucky.
 
