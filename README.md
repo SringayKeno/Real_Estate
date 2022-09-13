@@ -97,7 +97,7 @@ The map below shows the region around Austin Texas. Home prices are just over 63
 
 <img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
 
-#### The 1 million $ Club
+#### Million Dollar Counties
 
 The counties (below) on the left are counties whose average July home price was about 1 million. California had the most counties. Other states were Florida, Colorado, Massachusetts, New York , Hawaii, Wyoming, and Virginia. Not shown here is the District of Columbia, whose average homes values are also above 1 million. One the right are 8 more counties whose average July home values are between $900,000 and 1 million. They may soon be joining those counties on the left.
 
