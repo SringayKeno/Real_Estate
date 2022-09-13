@@ -86,14 +86,14 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 #### The Costly Coasts
 
-US counties where the average July 2022 home values are highest (shown as dark red on map) tend to be congregated along the US coasts. Those counties tend to be in the US Northeast and in California in the West. The state of Colorado ha a few counties as well in this category. This map, as well as several others that look at July 2022 home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes).
+US counties where the average July 2022 home values are highest (shown as dark red on map) tend to be congregated along the US coasts. Those counties tend to be in the US Northeast and in California in the West. The state of Colorado ha a few counties as well in this category. This map, as well as several others that look at July 2022 average home prices can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your county!
 
 <img width="679" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189574373-54f8f699-3bb7-4f14-8a48-1d5eae3805b8.png">
 
 
 #### Miles Matter
 
-The map below shows the region around Austin Texas. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to 260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your art of the country.
+The map below shows the region around Austin Texas. Home prices are just over 630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to 260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your part of the country.
 
 <img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
 
