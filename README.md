@@ -86,7 +86,7 @@ In addition to a shared interest, we were also intrigued by the wide range of da
 
 #### The Costly Coasts
 
-US counties where the average July 2022 mid-tier home values were highest (shown as dark red on map) tended to be congregated along the US coasts. Those counties were mostly located in the US Northeast and in California in the West. The state of Colorado had a few counties as well in this category. This map, as well as several others that look at July 2022 average home prices in the mid-tier range can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your county!
+US counties where the average July 2022 mid-tier home values were highest (shown as dark red on map) tended to be congregated along the US coasts. Those counties were mostly located in the US Northeast and in California. The state of Colorado had a few counties as well in this category. This map, as well as several others that look at July 2022 average home prices in the mid-tier range can be interacted with [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatUSCountyAvgHomeValuesinJuly2022/USCountyAvgHomeValuesandUnitsJuly2022?publish=yes). Check out your county!
 
 <img width="679" alt="Screenshot (512)" src="https://user-images.githubusercontent.com/102890151/189574373-54f8f699-3bb7-4f14-8a48-1d5eae3805b8.png">
 
