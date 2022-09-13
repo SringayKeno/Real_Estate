@@ -16,7 +16,7 @@
    * [Questions we hope to answer with the data](#questions-we-hope-to-answer-with-the-data) 
 * [Resources](#resources) 
 * [Communication Resources](#communication-resources)    
-* [A Look at Average Home Values in July 2022 by US County Through Visualizations](#a-look-at-average-home-values-in-july-2022-by-us-county-through-visualizations) 
+* [A Look at Average Home Values in the Mid-Tier Range by US County Through Visualizations](#a-look-at-average-home-values-in-the-mid-tier-range-by-us-county-through-visualizations) 
    * [The Costly Coasts](#the-costly-coasts)
    * [Four additional visualizations and four insights from housing data](#four-additional-visualizations-and-four-insights-from-the-housing-data) 
 * [Database](#database)
