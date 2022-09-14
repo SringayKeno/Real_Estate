@@ -93,7 +93,7 @@ US counties where the average July 2022 mid-tier home values were highest (shown
 
 #### Miles Matter
 
-The map below shows the region around Austin Texas. Mid-tier Home prices are just over $630,000 in greater Austin, but just 20 miles to the south in Caldwell County TX the average home price drops to $260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatAverageHomeValuesintheMid-TierRange35-65percentilebyUSCountyforJuly2022/USCountyAvgHomeValuesandUnitsJuly2022mid-tier?publish=yes).
+The map below shows the region around Austin Texas. Mid-tier Home prices are just over $630,000 in greater Austin (center of map) but just 20 miles to the south in Caldwell County Texas the average home price drops to $260,000. That's a drop of nearly 60%. All counties to the east of Austin all were far more cost effective with their averages in the $250k-$350k range. This map and the one above are interactive and can be found [here on Tableau Public](https://public.tableau.com/app/profile/ryan3085/viz/ALookatAverageHomeValuesintheMid-TierRange35-65percentilebyUSCountyforJuly2022/USCountyAvgHomeValuesandUnitsJuly2022mid-tier?publish=yes).
 
 <img width="602" alt="Screenshot (513)" src="https://user-images.githubusercontent.com/102890151/189780700-07815422-52ac-4acd-a8df-63c08b8da451.png">
 
@@ -117,7 +117,7 @@ The counties (below, left) are counties whose mid-tier average July home prices 
 
 #### Counties below $90,000 in Average July Home Values (mid-tier)
 
-This visual (below) shown all the states and the number of counties where the mid-tier average home values are below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia which has one county in the million-dollar range also had several counties in this illustration.
+This visual (below) shows all the states and the number of counties where the mid-tier average home values are below $90,000. Arkansas, Illinois, and Oklahoma had the most, followed by Kansas, Kentucky, and Texas. Virginia, which has one county in the million-dollar range also had several counties in this illustration.
 
 <img width="530" alt="Screenshot (506)" src="https://user-images.githubusercontent.com/102890151/189780778-ab83263e-4424-41e1-888b-0f8f99cce793.png">
 
