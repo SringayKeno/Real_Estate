@@ -107,7 +107,7 @@ The counties (below, left) are counties whose mid-tier average July home prices 
 
 
 
-(below left) A 1,078 square foot home that was listed for sale (in July of 2022) in Nantucket County Massachusetts. The home listed for $1,995,000, which is just below the mid-tier average home value for Nantucket County, whose July 2022 average home price was $2,040,000, which is the highest in the US for mid-tier homes. $2 million dollars may not sound mid-tier, but a quick glance at homes for sale on the island of Nantucket shows dozens of homes in the $4-8 million dollar range. 
+(below left) A 1,078 square foot home that was listed for sale in July of 2022 in Nantucket County Massachusetts. The home listed for $1,995,000, which is just below the mid-tier average home value of $2,040,000 for Nantucket County, which is the highest in the US for mid-tier homes. $2 million dollars may not sound mid-tier, but a quick glance at homes for sale on the island of Nantucket shows dozens of homes in the $4-8 million dollar range. 
 
 (below right) A home in Wyoming County, West Virginia listed for $39,900. Wyoming County's July average home price was among the lowest in the US at $39,826 for the mid-tier house range.
 	
