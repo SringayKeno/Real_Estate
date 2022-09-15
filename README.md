@@ -177,7 +177,7 @@ What external factors influence the housing value most apart from the conditions
 
 ### Train & Test Data size:
 	 
-2843 samples, 80% training sets, and 20% test sets.
+2837 samples, 80% training sets, and 20% test sets.
 
 ### Model Selection: Random Forest Regressor
 
@@ -194,18 +194,18 @@ What external factors influence the housing value most apart from the conditions
         
   #### 1) The 1st Training: Using only July values from previous years to predict the July value of 2022
 	
-        $10144 average error; 4.25% error
+        $11486 average error; 4.82% error
  
 
   
-  ![code](https://user-images.githubusercontent.com/102890151/188794660-f307e531-f43b-49c4-96ef-96ffa9afe119.png)
+  ![code](https://user-images.githubusercontent.com/102562557/190285755-feebb5e5-e983-4d3e-b761-7193d72bc3d5.png)
 
   
   
  #### 2) Checking the pattern between the predicted values and the actual values
   
   
-  ![1st](https://user-images.githubusercontent.com/102890151/188794909-a5b851b5-5756-4e1c-80d7-1252b790a4a4.png)
+  ![1st](https://user-images.githubusercontent.com/102562557/190286278-bd6be763-c6ce-4816-b608-ebd6ac6b49f8.png)
 
   
   
@@ -219,21 +219,20 @@ What external factors influence the housing value most apart from the conditions
   
  #### 4) Using the method above, we tried several different feature groups to reduce the average error amount and error rate. 
  
-a. 5 previous years’ July mid-tier home values: 4.25% error rate
-b. All the 25 features: 0.95%
-c. 16 features (dropping the bottom 9 most minor important features): 0.69% 
+a. 5 previous years’ July mid-tier home values: 4.82% error rate
+b. All the 25 features: 1.35%
+c. 16 features (dropping the bottom 9 most minor important features): 0.96% 
 error rate
-d. 9 monthly-home-value features: July home values from 2017, 2020, 2021 
-and home values from January to June 2022: 0.62% error rate
+d. 6 most recent monthly-home-value features: home values from January to June 2022: 0.59% error rate
 
 
 
-  <img src="https://user-images.githubusercontent.com/102890151/188792033-ea319e9b-117b-4026-8077-65cf82ce67ae.png"  width="700" height="400">
+  <img src="https://user-images.githubusercontent.com/102562557/190285935-1f140832-ff89-46d5-90c1-cb7586ea610b.png"  width="700" height="400">
   
 
 ### Results:
--	We reduced the average error from $10114 to $1475 and the error rate from 4.25% to 0.62%,
--	We reduced 85% of the average error (1-(4.25%-0.62%)/4.25%).
+-	We reduced the average error from $11486 to $1399 and the error rate from 4.82% to 0.59%,
+-	We reduced 88% of the average error (1-(4.82%-0.59%)/4.82%).
 
 ##  Analysis Summary:
 -	The previous month's housing values are the most informative references to look at when we are predicting the next month's value.
